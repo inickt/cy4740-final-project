@@ -7,16 +7,16 @@
 Using your container of choice, run the container using the given `Containerfile`, forwarding port
 8080 to the host.
 
-For example, with Docker this can be done with
-`docker run -it -p 8080:8080  $(docker build -f Containerfile . -q)`
+For example, with Docker this can be done with:  
+`docker run -it -p 8080:8080 -v $(pwd)/tmp:/home/appuser/.mitmproxy $(docker build -f Containerfile . -q)`
 
-Currently running the container generates a new certificate every time it is run, causing you to 
-have to download and trust the certificate every run.
+If you want to use the same certificates for both pipenv and container runs, you should use:  
+`-v $HOME/.mitmproxy:/home/appuser/.mitmproxy`
 
 ### Using your local development environment
 
 1. Run `pipenv install` to set up the dependencies needed to run the proxy.
-2. Run `pipenv run python src/proxy.py` to start the proxy and capture plugin
+2. Run `pipenv run python src/proxy.py` to start the proxy and capture plugin.
 
 ## Setting up the proxy connection
 

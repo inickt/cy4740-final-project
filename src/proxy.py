@@ -1,16 +1,11 @@
-from mitmproxy import proxy, options
-from mitmproxy.tools.dump import DumpMaster
-from mitmproxy.addons import core
-
-from time import sleep
-import signal
+import asyncio
+import json
+import time
 import threading
-
 from typing import Tuple
 
-import asyncio
-
-import multiprocessing
+from mitmproxy import proxy, options
+from mitmproxy.tools.dump import DumpMaster
 
 from addon import CaptureAddon
 
@@ -23,8 +18,8 @@ def main():
     )
     proxy_thread.start()
 
-    # wait for proxy to start before running input loop
-    sleep(2)
+    # run the input loop for tagging requests
+    print("Proxy server listening at http://*:8080")
     run_input_loop(m, addon)
 
 
@@ -45,8 +40,9 @@ def run_input_loop(m: DumpMaster, addon: CaptureAddon):
             label = input("Enter label for session:\n> ")
             addon.label = label
         elif option == 2:
-            # TODO save results for JSON, parse into something readable
             m.shutdown()
+            with open(f"dump-{time.strftime('%Y%m%d-%H.%M.%S')}.json", "w") as file:
+                json.dump(addon.captures, file)
             break
 
 
@@ -57,7 +53,7 @@ def create_proxy() -> Tuple[DumpMaster, CaptureAddon]:
     # create addon
     addon = CaptureAddon()
     # create proxy
-    m = DumpMaster(opts)
+    m = DumpMaster(opts, with_termlog=False, with_dumper=False)
     m.server = proxy.server.ProxyServer(config)
     m.addons.add(addon)
     return m, addon
