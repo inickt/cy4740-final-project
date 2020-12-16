@@ -45,17 +45,26 @@ class CaptureAddon:
                 flow.server_conn.ip_address,
                 flow.server_conn.tls_established,
                 {
-                    # TODO properly serialize if we want these
-                    # "issuer": flow.server_conn.cert.issuer,
-                    # "notbefore": flow.server_conn.cert.notbefore,
-                    # "notafter": flow.server_conn.cert.notafter,
-                    # "has_expired": flow.server_conn.cert.has_expired,
-                    # "subject": flow.server_conn.cert.subject,
+                    "issuer": {
+                        issuer_type.decode("utf8"): issuer_contents.decode("utf8")
+                        for issuer_type, issuer_contents in flow.server_conn.cert.issuer
+                    },
+                    "notbefore": flow.server_conn.cert.notbefore.isoformat(),
+                    "notafter": flow.server_conn.cert.notafter.isoformat(),
+                    "has_expired": flow.server_conn.cert.has_expired,
+                    "subject": {
+                        subject_type.decode("utf8"): subject_contents.decode("utf8")
+                        for subject_type, subject_contents in flow.server_conn.cert.subject
+                    },
                     "serial": flow.server_conn.cert.serial,
-                    "cn": flow.server_conn.cert.cn.decode('ascii'),
-                    # "organization": flow.server_conn.cert.organization.decode('ascii'),
-                    # "altnames": flow.server_conn.cert.altnames,
-                },
+                    "cn": flow.server_conn.cert.cn.decode("utf8"),
+                    "organization": flow.server_conn.cert.organization.decode("utf8"),
+                    "altnames": [
+                        name.decode("utf8") for name in flow.server_conn.cert.altnames
+                    ],
+                }
+                if flow.server_conn.cert
+                else None,
                 flow.server_conn.sni,
                 flow.server_conn.tls_version,
             )
