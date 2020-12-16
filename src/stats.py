@@ -3,7 +3,6 @@ from collections import defaultdict
 import json, sys
 
 def main(data):
-    tls_1_2 = 0
     for label in data:
         tls_count = defaultdict(int)
         for request in data[label]:
