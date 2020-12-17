@@ -9,7 +9,7 @@ from pyvis.network import Network
 
 def main(data, name):
     # Set up network
-    network = Network(height="100%", width="100%", heading=name)
+    network = Network(height="100%", width="70%", heading=name)
 
     # Count total number of visits
     flattened_domains = defaultdict(int)
@@ -25,7 +25,7 @@ def main(data, name):
                 if request["host"] == domain:
                     labels[label] += 1
 
-        hover_text = "<b>Sites:</b>"
+        hover_text = f"<b>Sites that use {domain}:</b>"
         for label, count in sorted(labels.items(), key=lambda kv: kv[1], reverse=True):
             hover_text += f"<br>{label} - {count}"
         network.add_node(
@@ -39,7 +39,7 @@ def main(data, name):
             domains[request["host"]] += 1
 
         # Add label node
-        hover_text = "<b>Domains:</b>"
+        hover_text = f"<b>{label} Connected Domains:</b>"
         for domain, count in sorted(
             domains.items(), key=lambda kv: kv[1], reverse=True
         ):
@@ -50,19 +50,21 @@ def main(data, name):
 
         # Add edges
         for domain, count in domains.items():
-            network.add_edge(label, domain, title=str(count), value=count)
+            network.add_edge(label, domain, title=f"{label} → {domain}: {count}", value=count)
 
     # Create network graph
     network.force_atlas_2based(
-        gravity=-155,
-        central_gravity=0.035,
-        spring_length=70,
-        spring_strength=0.215,
-        damping=0.55,
+        gravity=-500,
+        central_gravity=0.025,
+        spring_length=25,
+        spring_strength=0.01,
+        damping=0.65,
         overlap=1,
     )
-    # network.show_buttons(["physics"])
-    network.toggle_physics(True)
+    network.show_buttons(["physics"])
+    network.set_edge_smooth("discrete")
+    network.inherit_edge_colors(True)
+    network.toggle_hide_edges_on_drag(True)
     network.show(f"{name}.html")
 
 
