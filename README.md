@@ -26,7 +26,7 @@ If you want to use the same certificates for both pipenv and container runs, you
      port 8080.
    - If possible, only configure a dedicated browser instead of your whole computer to use the 
      proxy. That way, during development, your main browser will still work, and only traffic from your
-     dedicated browser will be colleted (instead of your whole system).
+     dedicated browser will be collected (instead of your whole system).
 
 2. Go to [http://mitm.it](http://mitm.it) once you have the proxy configured to download the root
    certificate and add it to your root trust store.
