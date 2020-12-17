@@ -1,0 +1,12 @@
+Google.com
+facebook.com
+youtube.com
+twitter.com
+instagram.com
+wikipedia.org
+amazon.com
+bing.com
+wordpress.com
+github.com
+blogspot.com
+mozilla.org
