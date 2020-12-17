@@ -16,7 +16,7 @@ def main():
         else:
             hosts[i['host']]= 1
 
-    with open('parsed.json', 'w') as out:
+    with open(sys.argv[1]+'_parsed.json', 'w') as out:
         json.dump(hosts, out)
 
     f.close()
