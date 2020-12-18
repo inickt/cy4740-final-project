@@ -1,0 +1,118 @@
+reddit_unauth:
+--------------------------------------------------
+  DigiCert Inc - 253 - 73.12%
+  Google Trust Services - 85 - 24.57%
+  Amazon - 7 - 2.02%
+  Sectigo Limited - 1 - 0.29%
+
+reddit_auth:
+--------------------------------------------------
+  DigiCert Inc - 516 - 74.89%
+  Google Trust Services - 105 - 15.24%
+  Amazon - 32 - 4.64%
+  Sectigo Limited - 26 - 3.77%
+  GlobalSign nv-sa - 5 - 0.73%
+  GoDaddy.com, Inc. - 3 - 0.44%
+  DigiCert, Inc. - 1 - 0.15%
+  Cloudflare, Inc. - 1 - 0.15%
+
+amazon_auth:
+--------------------------------------------------
+  DigiCert Inc - 403 - 66.07%
+  Amazon - 146 - 23.93%
+  Network Solutions L.L.C. - 32 - 5.25%
+  Google Trust Services - 18 - 2.95%
+  GoDaddy.com, Inc. - 8 - 1.31%
+  Cloudflare, Inc. - 3 - 0.49%
+
+amazon_unauth:
+--------------------------------------------------
+  DigiCert Inc - 743 - 73.56%
+  Amazon - 262 - 25.94%
+  Cloudflare, Inc. - 3 - 0.30%
+  Google Trust Services - 2 - 0.20%
+
+youtube_auth:
+--------------------------------------------------
+  Google Trust Services - 387 - 92.36%
+  DigiCert Inc - 24 - 5.73%
+  No TLS - 8 - 1.91%
+
+youtube_unauth:
+--------------------------------------------------
+  Google Trust Services - 234 - 100.00%
+
+Overall totals:
+--------------------------------------------------
+  DigiCert Inc - 1939 - 58.62%
+  Google Trust Services - 831 - 25.12%
+  Amazon - 447 - 13.51%
+  Network Solutions L.L.C. - 32 - 0.97%
+  Sectigo Limited - 27 - 0.82%
+  GoDaddy.com, Inc. - 11 - 0.33%
+  No TLS - 8 - 0.24%
+  Cloudflare, Inc. - 7 - 0.21%
+  GlobalSign nv-sa - 5 - 0.15%
+  DigiCert, Inc. - 1 - 0.03%
+
+Certificate expiration:
+--------------------------------------------------
+  Google Trust Services
+    83 days - 779
+    69 days - 52
+  DigiCert Inc
+    370 days - 898
+    180 days - 454
+    362 days - 205
+    451 days - 62
+    425 days - 62
+    179 days - 61
+    456 days - 43
+    775 days - 34
+    369 days - 33
+    735 days - 14
+    330 days - 12
+    734 days - 11
+    396 days - 9
+    364 days - 8
+    320 days - 7
+    1130 days - 4
+    89 days - 3
+    793 days - 3
+    771 days - 3
+    379 days - 3
+    400 days - 2
+    737 days - 2
+    785 days - 2
+    366 days - 1
+    428 days - 1
+    822 days - 1
+    786 days - 1
+  Amazon
+    365 days - 347
+    360 days - 34
+    363 days - 21
+    396 days - 17
+    357 days - 14
+    361 days - 6
+    394 days - 3
+    395 days - 3
+    364 days - 1
+    355 days - 1
+  Sectigo Limited
+    365 days - 24
+    374 days - 3
+  DigiCert, Inc.
+    365 days - 1
+  GlobalSign nv-sa
+    167 days - 5
+  GoDaddy.com, Inc.
+    787 days - 6
+    1135 days - 2
+    397 days - 1
+    770 days - 1
+    790 days - 1
+  Cloudflare, Inc.
+    365 days - 7
+  Network Solutions L.L.C.
+    769 days - 32

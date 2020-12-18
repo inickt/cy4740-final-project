@@ -1,0 +1,489 @@
+reddit_unauth (346):
+--------------------------------------------------
+  47 - www.reddit.com
+  30 - b.thumbs.redditmedia.com
+  26 - preview.redd.it
+  25 - www.redditstatic.com
+  22 - s0.2mdn.net
+  18 - styles.redditmedia.com
+  18 - alb.reddit.com
+  18 - gateway.reddit.com
+  16 - gql.reddit.com
+  11 - pagead2.googlesyndication.com
+  10 - www.google.com
+  10 - securepubads.g.doubleclick.net
+  10 - strapi.reddit.com
+  9 - external-preview.redd.it
+  7 - a.thumbs.redditmedia.com
+  7 - px.moatads.com
+  6 - c.amazon-adsystem.com
+  4 - emoji.redditmedia.com
+  4 - googleads.g.doubleclick.net
+  4 - tpc.googlesyndication.com
+  4 - googleads4.g.doubleclick.net
+  3 - accounts.google.com
+  3 - sb.scorecardresearch.com
+  2 - c.aaxads.com
+  2 - www.redditmedia.com
+  2 - secure.insightexpressai.com
+  2 - ad.doubleclick.net
+  2 - fonts.gstatic.com
+  2 - www.googletagservices.com
+  2 - play.google.com
+  2 - watch.redd.it
+  1 - www.aaxdetect.com
+  1 - l3.aaxads.com
+  1 - tracker.samplicio.us
+  1 - www.googletagmanager.com
+  1 - secure-gl.imrworldwide.com
+  1 - id.rlcdn.com
+  1 - www.facebook.com
+  1 - adservice.google.com
+  1 - lh3.googleusercontent.com
+  1 - 793f4fa63d22ae0b1832219001ceada0.safeframe.googlesyndication.com
+  1 - safebrowsing.googleapis.com
+  1 - z.moatads.com
+  1 - encrypted-tbn0.gstatic.com
+  1 - encrypted-tbn2.gstatic.com
+  1 - ade.googlesyndication.com
+  1 - fonts.googleapis.com
+  1 - rules.quantcount.com
+  1 - pixel.quantserve.com
+
+reddit_auth (689):
+--------------------------------------------------
+  106 - www.redditstatic.com
+  36 - www.reddit.com
+  36 - gql.reddit.com
+  34 - gsm-adverts.betstream.betgenius.com
+  30 - preview.redd.it
+  28 - styles.redditmedia.com
+  24 - gateway.reddit.com
+  24 - nym1-ib.adnxs.com
+  22 - s.update.rubiconproject.com
+  21 - alb.reddit.com
+  20 - s0.2mdn.net
+  19 - b.thumbs.redditmedia.com
+  19 - px.moatads.com
+  19 - aax-us-east.amazon-adsystem.com
+  18 - pagead2.googlesyndication.com
+  16 - platform.twitter.com
+  14 - securepubads.g.doubleclick.net
+  14 - tpc.googlesyndication.com
+  13 - ssl.connextra.com
+  12 - oauth.reddit.com
+  10 - www.google.com
+  9 - c.amazon-adsystem.com
+  9 - ib.adnxs.com
+  8 - external-preview.redd.it
+  8 - syndication.twitter.com
+  6 - ade.googlesyndication.com
+  6 - a.thumbs.redditmedia.com
+  6 - pbs.twimg.com
+  6 - img-getpocket.cdn.mozilla.net
+  5 - strapi.reddit.com
+  5 - emoji.redditmedia.com
+  5 - eus.rubiconproject.com
+  4 - accounts.google.com
+  4 - www.googletagservices.com
+  4 - www.redditmedia.com
+  4 - sb.scorecardresearch.com
+  3 - b60ec87353851c805b068c1f701561c6.safeframe.googlesyndication.com
+  3 - googleads.g.doubleclick.net
+  3 - acdn.adnxs.com
+  3 - pixel.rubiconproject.com
+  2 - apis.google.com
+  2 - events.reddit.com
+  2 - c.aaxads.com
+  2 - ad.doubleclick.net
+  2 - secure.insightexpressai.com
+  2 - googleads4.g.doubleclick.net
+  2 - beacon-us-iad2.rubiconproject.com
+  2 - sync.mathtag.com
+  2 - v.redd.it
+  2 - pippio.com
+  2 - aax.amazon-adsystem.com
+  2 - cdn.adnxs.com
+  1 - appleid.cdn-apple.com
+  1 - www.aaxdetect.com
+  1 - l3.aaxads.com
+  1 - www.googletagmanager.com
+  1 - id.rlcdn.com
+  1 - pixel.quantserve.com
+  1 - adservice.google.com
+  1 - tracker.samplicio.us
+  1 - secure-gl.imrworldwide.com
+  1 - www.facebook.com
+  1 - cdn.syndication.twimg.com
+  1 - z.moatads.com
+  1 - watch.redd.it
+  1 - cm.g.doubleclick.net
+  1 - dis.criteo.com
+  1 - idsync.rlcdn.com
+  1 - beacon.krxd.net
+  1 - dmp.truoptik.com
+  1 - loadm.exelator.com
+  1 - t.wayfair.com
+  1 - dpm.demdex.net
+  1 - secure.adnxs.com
+  1 - sync.jivox.com
+  1 - p.adsymptotic.com
+  1 - spocs.getpocket.com
+  1 - getpocket.cdn.mozilla.net
+  1 - normandy.cdn.mozilla.net
+  1 - classify-client.services.mozilla.com
+  1 - content-signature-2.cdn.mozilla.net
+
+amazon_auth (610):
+--------------------------------------------------
+  154 - images-na.ssl-images-amazon.com
+  126 - m.media-amazon.com
+  70 - www.amazon.com
+  54 - fls-na.amazon.com
+  28 - aax-us-east.amazon-adsystem.com
+  22 - unagi-na.amazon.com
+  15 - cdn.flashtalking.com
+  11 - cdn.doubleverify.com
+  11 - unagi.amazon.com
+  8 - tps10261.doubleverify.com
+  7 - d23tl967axkois.cloudfront.net
+  6 - aan.amazon.com
+  6 - googleads4.g.doubleclick.net
+  6 - s.amazon-adsystem.com
+  6 - choices.trustarc.com
+  5 - pagead2.googlesyndication.com
+  5 - tps10224.doubleverify.com
+  4 - tps621.doubleverify.com
+  4 - video-edge-334def.pdx01.abs.hls.ttvnw.net
+  4 - tps10260.doubleverify.com
+  3 - rtb2.doubleverify.com
+  3 - player.live-video.net
+  3 - ad.doubleclick.net
+  3 - servedby.flashtalking.com
+  3 - usher.ttvnw.net
+  3 - video-weaver.jfk04.hls.ttvnw.net
+  3 - tps30.doubleverify.com
+  3 - c.amazon-adsystem.com
+  3 - usersync.samplicio.us
+  3 - spl.zeotap.com
+  3 - d1lxz4vuik53pc.cloudfront.net
+  3 - tps618.doubleverify.com
+  2 - www.googletagservices.com
+  2 - d2in0p32vp1pij.cloudfront.net
+  2 - comcast.demdex.net
+  2 - player.stats.live-video.net
+  2 - d.agkn.com
+  2 - completion.amazon.com
+  2 - choices.truste.com
+  2 - s0.2mdn.net
+  2 - static.siege-amazon.com
+  1 - dpm.demdex.net
+  1 - rtb0.doubleverify.com
+  1 - softlines-trova.s3-us-west-2.amazonaws.com
+  1 - tps604.doubleverify.com
+
+amazon_unauth (1010):
+--------------------------------------------------
+  372 - images-na.ssl-images-amazon.com
+  236 - m.media-amazon.com
+  135 - www.amazon.com
+  119 - fls-na.amazon.com
+  39 - aax-us-east.amazon-adsystem.com
+  28 - aan.amazon.com
+  25 - unagi-na.amazon.com
+  21 - unagi.amazon.com
+  8 - s.amazon-adsystem.com
+  6 - aax-us-iad.amazon.com
+  5 - completion.amazon.com
+  3 - c.amazon-adsystem.com
+  3 - spl.zeotap.com
+  2 - safebrowsing.googleapis.com
+  2 - usersync.samplicio.us
+  2 - redirect.prod.experiment.routing.cloudfront.aws.a2z.com
+  1 - assoc-na.associates-amazon.com
+  1 - cloudfront-labs.amazonaws.com
+  1 - a6e2d18872f40a3d773e330af62b1e0b9.profile.zrh50-c1.cloudfront.net
+  1 - ae04a06719f36cd385258cdae2ae1504c.profile.yto50-c1.cloudfront.net
+
+youtube_auth (419):
+--------------------------------------------------
+  149 - i.ytimg.com
+  92 - www.youtube.com
+  84 - yt3.ggpht.com
+  9 - img-getpocket.cdn.mozilla.net
+  9 - r2---sn-8xgp1vo-xfgs.googlevideo.com
+  7 - www.google.com
+  7 - youtube.com
+  7 - r5---sn-8xgp1vo-xfgs.googlevideo.com
+  6 - detectportal.firefox.com
+  6 - www.gstatic.com
+  4 - snippets.cdn.mozilla.net
+  4 - tracking-protection.cdn.mozilla.net
+  4 - fonts.googleapis.com
+  4 - googleads.g.doubleclick.net
+  3 - ade.googlesyndication.com
+  2 - safebrowsing.googleapis.com
+  2 - g-ec2.images-amazon.com
+  2 - r3---sn-8xgp1vo-p5qs.googlevideo.com
+  2 - tpc.googlesyndication.com
+  2 - pagead2.googlesyndication.com
+  2 - accounts.youtube.com
+  1 - normandy.cdn.mozilla.net
+  1 - content-signature-2.cdn.mozilla.net
+  1 - classify-client.services.mozilla.com
+  1 - location.services.mozilla.com
+  1 - firefox.settings.services.mozilla.com
+  1 - push.services.mozilla.com
+  1 - shavar.services.mozilla.com
+  1 - fonts.gstatic.com
+  1 - static.doubleclick.net
+  1 - i1.ytimg.com
+  1 - ad.doubleclick.net
+  1 - accounts.google.com
+
+youtube_unauth (234):
+--------------------------------------------------
+  72 - i.ytimg.com
+  52 - www.youtube.com
+  35 - i9.ytimg.com
+  26 - yt3.ggpht.com
+  11 - r1---sn-8xgp1vo-p5qe.googlevideo.com
+  10 - r5---sn-8xgp1vo-p5ql.googlevideo.com
+  7 - r7---sn-8xgp1vo-p5qy.googlevideo.com
+  6 - www.google.com
+  5 - googleads.g.doubleclick.net
+  4 - r6---sn-8xgp1vo-p5qe.googlevideo.com
+  2 - r6---sn-8xgp1vo-p5qs.googlevideo.com
+  1 - securepubads.g.doubleclick.net
+  1 - lh5.googleusercontent.com
+  1 - pagead2.googlesyndication.com
+  1 - www.google-analytics.com
+
+Overall totals (234):
+--------------------------------------------------
+  526 - images-na.ssl-images-amazon.com
+  362 - m.media-amazon.com
+  221 - i.ytimg.com
+  205 - www.amazon.com
+  173 - fls-na.amazon.com
+  144 - www.youtube.com
+  131 - www.redditstatic.com
+  110 - yt3.ggpht.com
+  86 - aax-us-east.amazon-adsystem.com
+  83 - www.reddit.com
+  56 - preview.redd.it
+  52 - gql.reddit.com
+  49 - b.thumbs.redditmedia.com
+  47 - unagi-na.amazon.com
+  46 - styles.redditmedia.com
+  44 - s0.2mdn.net
+  42 - gateway.reddit.com
+  39 - alb.reddit.com
+  37 - pagead2.googlesyndication.com
+  35 - i9.ytimg.com
+  34 - gsm-adverts.betstream.betgenius.com
+  34 - aan.amazon.com
+  33 - www.google.com
+  32 - unagi.amazon.com
+  26 - px.moatads.com
+  25 - securepubads.g.doubleclick.net
+  24 - nym1-ib.adnxs.com
+  22 - s.update.rubiconproject.com
+  21 - c.amazon-adsystem.com
+  20 - tpc.googlesyndication.com
+  17 - external-preview.redd.it
+  16 - googleads.g.doubleclick.net
+  16 - platform.twitter.com
+  15 - strapi.reddit.com
+  15 - img-getpocket.cdn.mozilla.net
+  15 - cdn.flashtalking.com
+  14 - s.amazon-adsystem.com
+  13 - a.thumbs.redditmedia.com
+  13 - ssl.connextra.com
+  12 - googleads4.g.doubleclick.net
+  12 - oauth.reddit.com
+  11 - cdn.doubleverify.com
+  11 - r1---sn-8xgp1vo-p5qe.googlevideo.com
+  10 - ade.googlesyndication.com
+  10 - r5---sn-8xgp1vo-p5ql.googlevideo.com
+  9 - emoji.redditmedia.com
+  9 - ib.adnxs.com
+  9 - r2---sn-8xgp1vo-xfgs.googlevideo.com
+  8 - ad.doubleclick.net
+  8 - accounts.google.com
+  8 - www.googletagservices.com
+  8 - syndication.twitter.com
+  8 - tps10261.doubleverify.com
+  7 - sb.scorecardresearch.com
+  7 - d23tl967axkois.cloudfront.net
+  7 - completion.amazon.com
+  7 - youtube.com
+  7 - r5---sn-8xgp1vo-xfgs.googlevideo.com
+  7 - r7---sn-8xgp1vo-p5qy.googlevideo.com
+  6 - www.redditmedia.com
+  6 - pbs.twimg.com
+  6 - spl.zeotap.com
+  6 - choices.trustarc.com
+  6 - aax-us-iad.amazon.com
+  6 - detectportal.firefox.com
+  6 - www.gstatic.com
+  5 - safebrowsing.googleapis.com
+  5 - fonts.googleapis.com
+  5 - eus.rubiconproject.com
+  5 - usersync.samplicio.us
+  5 - tps10224.doubleverify.com
+  4 - c.aaxads.com
+  4 - secure.insightexpressai.com
+  4 - tps621.doubleverify.com
+  4 - video-edge-334def.pdx01.abs.hls.ttvnw.net
+  4 - tps10260.doubleverify.com
+  4 - snippets.cdn.mozilla.net
+  4 - tracking-protection.cdn.mozilla.net
+  4 - r6---sn-8xgp1vo-p5qe.googlevideo.com
+  3 - fonts.gstatic.com
+  3 - watch.redd.it
+  3 - b60ec87353851c805b068c1f701561c6.safeframe.googlesyndication.com
+  3 - acdn.adnxs.com
+  3 - pixel.rubiconproject.com
+  3 - rtb2.doubleverify.com
+  3 - player.live-video.net
+  3 - servedby.flashtalking.com
+  3 - usher.ttvnw.net
+  3 - video-weaver.jfk04.hls.ttvnw.net
+  3 - tps30.doubleverify.com
+  3 - d1lxz4vuik53pc.cloudfront.net
+  3 - tps618.doubleverify.com
+  2 - www.aaxdetect.com
+  2 - l3.aaxads.com
+  2 - tracker.samplicio.us
+  2 - www.googletagmanager.com
+  2 - secure-gl.imrworldwide.com
+  2 - id.rlcdn.com
+  2 - www.facebook.com
+  2 - adservice.google.com
+  2 - z.moatads.com
+  2 - play.google.com
+  2 - pixel.quantserve.com
+  2 - apis.google.com
+  2 - events.reddit.com
+  2 - beacon-us-iad2.rubiconproject.com
+  2 - sync.mathtag.com
+  2 - dpm.demdex.net
+  2 - v.redd.it
+  2 - pippio.com
+  2 - aax.amazon-adsystem.com
+  2 - cdn.adnxs.com
+  2 - normandy.cdn.mozilla.net
+  2 - classify-client.services.mozilla.com
+  2 - content-signature-2.cdn.mozilla.net
+  2 - d2in0p32vp1pij.cloudfront.net
+  2 - comcast.demdex.net
+  2 - player.stats.live-video.net
+  2 - d.agkn.com
+  2 - choices.truste.com
+  2 - static.siege-amazon.com
+  2 - redirect.prod.experiment.routing.cloudfront.aws.a2z.com
+  2 - g-ec2.images-amazon.com
+  2 - r3---sn-8xgp1vo-p5qs.googlevideo.com
+  2 - accounts.youtube.com
+  2 - r6---sn-8xgp1vo-p5qs.googlevideo.com
+  1 - lh3.googleusercontent.com
+  1 - 793f4fa63d22ae0b1832219001ceada0.safeframe.googlesyndication.com
+  1 - encrypted-tbn0.gstatic.com
+  1 - encrypted-tbn2.gstatic.com
+  1 - rules.quantcount.com
+  1 - appleid.cdn-apple.com
+  1 - cdn.syndication.twimg.com
+  1 - cm.g.doubleclick.net
+  1 - dis.criteo.com
+  1 - idsync.rlcdn.com
+  1 - beacon.krxd.net
+  1 - dmp.truoptik.com
+  1 - loadm.exelator.com
+  1 - t.wayfair.com
+  1 - secure.adnxs.com
+  1 - sync.jivox.com
+  1 - p.adsymptotic.com
+  1 - spocs.getpocket.com
+  1 - getpocket.cdn.mozilla.net
+  1 - rtb0.doubleverify.com
+  1 - softlines-trova.s3-us-west-2.amazonaws.com
+  1 - tps604.doubleverify.com
+  1 - assoc-na.associates-amazon.com
+  1 - cloudfront-labs.amazonaws.com
+  1 - a6e2d18872f40a3d773e330af62b1e0b9.profile.zrh50-c1.cloudfront.net
+  1 - ae04a06719f36cd385258cdae2ae1504c.profile.yto50-c1.cloudfront.net
+  1 - location.services.mozilla.com
+  1 - firefox.settings.services.mozilla.com
+  1 - push.services.mozilla.com
+  1 - shavar.services.mozilla.com
+  1 - static.doubleclick.net
+  1 - i1.ytimg.com
+  1 - lh5.googleusercontent.com
+  1 - www.google-analytics.com
+
+Cross usage totals:
+--------------------------------------------------
+  5 - pagead2.googlesyndication.com - (reddit_unauth, reddit_auth, amazon_auth, youtube_auth, youtube_unauth)
+  4 - www.google.com - (reddit_unauth, reddit_auth, youtube_auth, youtube_unauth)
+  4 - ad.doubleclick.net - (reddit_unauth, reddit_auth, amazon_auth, youtube_auth)
+  4 - c.amazon-adsystem.com - (reddit_unauth, reddit_auth, amazon_auth, amazon_unauth)
+  4 - googleads.g.doubleclick.net - (reddit_unauth, reddit_auth, youtube_auth, youtube_unauth)
+  3 - s0.2mdn.net - (reddit_unauth, reddit_auth, amazon_auth)
+  3 - accounts.google.com - (reddit_unauth, reddit_auth, youtube_auth)
+  3 - securepubads.g.doubleclick.net - (reddit_unauth, reddit_auth, youtube_unauth)
+  3 - www.googletagservices.com - (reddit_unauth, reddit_auth, amazon_auth)
+  3 - tpc.googlesyndication.com - (reddit_unauth, reddit_auth, youtube_auth)
+  3 - safebrowsing.googleapis.com - (reddit_unauth, amazon_unauth, youtube_auth)
+  3 - googleads4.g.doubleclick.net - (reddit_unauth, reddit_auth, amazon_auth)
+  3 - ade.googlesyndication.com - (reddit_unauth, reddit_auth, youtube_auth)
+  3 - aax-us-east.amazon-adsystem.com - (reddit_auth, amazon_auth, amazon_unauth)
+  2 - www.reddit.com - (reddit_unauth, reddit_auth)
+  2 - external-preview.redd.it - (reddit_unauth, reddit_auth)
+  2 - styles.redditmedia.com - (reddit_unauth, reddit_auth)
+  2 - www.redditstatic.com - (reddit_unauth, reddit_auth)
+  2 - preview.redd.it - (reddit_unauth, reddit_auth)
+  2 - b.thumbs.redditmedia.com - (reddit_unauth, reddit_auth)
+  2 - emoji.redditmedia.com - (reddit_unauth, reddit_auth)
+  2 - a.thumbs.redditmedia.com - (reddit_unauth, reddit_auth)
+  2 - c.aaxads.com - (reddit_unauth, reddit_auth)
+  2 - gql.reddit.com - (reddit_unauth, reddit_auth)
+  2 - www.redditmedia.com - (reddit_unauth, reddit_auth)
+  2 - www.aaxdetect.com - (reddit_unauth, reddit_auth)
+  2 - l3.aaxads.com - (reddit_unauth, reddit_auth)
+  2 - tracker.samplicio.us - (reddit_unauth, reddit_auth)
+  2 - alb.reddit.com - (reddit_unauth, reddit_auth)
+  2 - secure.insightexpressai.com - (reddit_unauth, reddit_auth)
+  2 - www.googletagmanager.com - (reddit_unauth, reddit_auth)
+  2 - secure-gl.imrworldwide.com - (reddit_unauth, reddit_auth)
+  2 - id.rlcdn.com - (reddit_unauth, reddit_auth)
+  2 - www.facebook.com - (reddit_unauth, reddit_auth)
+  2 - gateway.reddit.com - (reddit_unauth, reddit_auth)
+  2 - adservice.google.com - (reddit_unauth, reddit_auth)
+  2 - fonts.gstatic.com - (reddit_unauth, youtube_auth)
+  2 - z.moatads.com - (reddit_unauth, reddit_auth)
+  2 - px.moatads.com - (reddit_unauth, reddit_auth)
+  2 - strapi.reddit.com - (reddit_unauth, reddit_auth)
+  2 - watch.redd.it - (reddit_unauth, reddit_auth)
+  2 - fonts.googleapis.com - (reddit_unauth, youtube_auth)
+  2 - sb.scorecardresearch.com - (reddit_unauth, reddit_auth)
+  2 - pixel.quantserve.com - (reddit_unauth, reddit_auth)
+  2 - dpm.demdex.net - (reddit_auth, amazon_auth)
+  2 - img-getpocket.cdn.mozilla.net - (reddit_auth, youtube_auth)
+  2 - normandy.cdn.mozilla.net - (reddit_auth, youtube_auth)
+  2 - classify-client.services.mozilla.com - (reddit_auth, youtube_auth)
+  2 - content-signature-2.cdn.mozilla.net - (reddit_auth, youtube_auth)
+  2 - www.amazon.com - (amazon_auth, amazon_unauth)
+  2 - m.media-amazon.com - (amazon_auth, amazon_unauth)
+  2 - images-na.ssl-images-amazon.com - (amazon_auth, amazon_unauth)
+  2 - unagi-na.amazon.com - (amazon_auth, amazon_unauth)
+  2 - aan.amazon.com - (amazon_auth, amazon_unauth)
+  2 - fls-na.amazon.com - (amazon_auth, amazon_unauth)
+  2 - unagi.amazon.com - (amazon_auth, amazon_unauth)
+  2 - s.amazon-adsystem.com - (amazon_auth, amazon_unauth)
+  2 - usersync.samplicio.us - (amazon_auth, amazon_unauth)
+  2 - spl.zeotap.com - (amazon_auth, amazon_unauth)
+  2 - completion.amazon.com - (amazon_auth, amazon_unauth)
+  2 - www.youtube.com - (youtube_auth, youtube_unauth)
+  2 - i.ytimg.com - (youtube_auth, youtube_unauth)
+  2 - yt3.ggpht.com - (youtube_auth, youtube_unauth)
