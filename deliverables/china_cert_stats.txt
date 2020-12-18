@@ -1,0 +1,228 @@
+360:
+--------------------------------------------------
+  WoTrus CA Limited - 42 - 56.00%
+  No TLS - 23 - 30.67%
+  WoSign CA Limited - 9 - 12.00%
+  Google Trust Services - 1 - 1.33%
+
+aliexpress:
+--------------------------------------------------
+  DigiCert Inc - 298 - 58.78%
+  GlobalSign nv-sa - 165 - 32.54%
+  No TLS - 23 - 4.54%
+  Google Trust Services - 21 - 4.14%
+
+alipay:
+--------------------------------------------------
+  DigiCert Inc - 241 - 66.57%
+  GlobalSign nv-sa - 94 - 25.97%
+  No TLS - 23 - 6.35%
+  Google Trust Services - 2 - 0.55%
+  TrustAsia Technologies, Inc. - 2 - 0.55%
+
+baidu:
+--------------------------------------------------
+  GlobalSign nv-sa - 182 - 85.05%
+  DigiCert Inc - 21 - 9.81%
+  No TLS - 7 - 3.27%
+  Google Trust Services - 2 - 0.93%
+  TrustAsia Technologies, Inc. - 2 - 0.93%
+
+csdn.net:
+--------------------------------------------------
+  DigiCert Inc - 894 - 83.32%
+  Google Trust Services - 109 - 10.16%
+  GlobalSign nv-sa - 41 - 3.82%
+  Sectigo Limited - 11 - 1.03%
+  No TLS - 7 - 0.65%
+  Let's Encrypt - 3 - 0.28%
+  GoDaddy.com, Inc. - 3 - 0.28%
+  Amazon - 3 - 0.28%
+  TrustAsia Technologies, Inc. - 2 - 0.19%
+
+jd:
+--------------------------------------------------
+  GlobalSign nv-sa - 581 - 94.93%
+  DigiCert Inc - 18 - 2.94%
+  No TLS - 10 - 1.63%
+  Let's Encrypt - 3 - 0.49%
+
+qq:
+--------------------------------------------------
+  DigiCert Inc - 694 - 86.86%
+  GlobalSign nv-sa - 89 - 11.14%
+  No TLS - 16 - 2.00%
+
+sina:
+--------------------------------------------------
+  DigiCert Inc - 385 - 60.25%
+  No TLS - 201 - 31.46%
+  GlobalSign nv-sa - 27 - 4.23%
+  Google Trust Services - 25 - 3.91%
+  WoTrus CA Limited - 1 - 0.16%
+
+sohu:
+--------------------------------------------------
+  DigiCert Inc - 164 - 49.10%
+  GlobalSign nv-sa - 121 - 36.23%
+  No TLS - 45 - 13.47%
+  Google Trust Services - 4 - 1.20%
+
+tianya:
+--------------------------------------------------
+  No TLS - 149 - 92.55%
+  GlobalSign nv-sa - 8 - 4.97%
+  Let's Encrypt - 2 - 1.24%
+  DigiCert Inc - 1 - 0.62%
+  Amazon - 1 - 0.62%
+
+tmall:
+--------------------------------------------------
+  GlobalSign nv-sa - 399 - 97.79%
+  DigiCert Inc - 5 - 1.23%
+  No TLS - 4 - 0.98%
+
+weibo:
+--------------------------------------------------
+  DigiCert Inc - 205 - 65.71%
+  Google Trust Services - 47 - 15.06%
+  No TLS - 25 - 8.01%
+  Sectigo Limited - 17 - 5.45%
+  Cloudflare, Inc. - 10 - 3.21%
+  Trustwave Holdings, Inc. - 7 - 2.24%
+  GlobalSign nv-sa - 1 - 0.32%
+
+xinhuanet:
+--------------------------------------------------
+  No TLS - 336 - 97.39%
+  Google Trust Services - 4 - 1.16%
+  China Financial Certification Authority - 4 - 1.16%
+  DigiCert Inc - 1 - 0.29%
+
+zhanqi:
+--------------------------------------------------
+  DigiCert Inc - 314 - 79.49%
+  GlobalSign nv-sa - 58 - 14.68%
+  Entrust, Inc. - 10 - 2.53%
+  Google Trust Services - 5 - 1.27%
+  No TLS - 5 - 1.27%
+  Amazon - 3 - 0.76%
+
+Overall totals:
+--------------------------------------------------
+  DigiCert Inc - 3241 - 51.97%
+  GlobalSign nv-sa - 1766 - 28.32%
+  No TLS - 874 - 14.02%
+  Google Trust Services - 220 - 3.53%
+  WoTrus CA Limited - 43 - 0.69%
+  Sectigo Limited - 28 - 0.45%
+  Cloudflare, Inc. - 10 - 0.16%
+  Entrust, Inc. - 10 - 0.16%
+  WoSign CA Limited - 9 - 0.14%
+  Let's Encrypt - 8 - 0.13%
+  Amazon - 7 - 0.11%
+  Trustwave Holdings, Inc. - 7 - 0.11%
+  TrustAsia Technologies, Inc. - 6 - 0.10%
+  China Financial Certification Authority - 4 - 0.06%
+  GoDaddy.com, Inc. - 3 - 0.05%
+\Certificate expiration:
+--------------------------------------------------
+  Google Trust Services
+    83 days - 220
+  WoTrus CA Limited
+    819 days - 22
+    823 days - 8
+    365 days - 6
+    730 days - 5
+    734 days - 2
+  WoSign CA Limited
+    823 days - 9
+  DigiCert Inc
+    824 days - 724
+    396 days - 388
+    427 days - 329
+    368 days - 314
+    456 days - 256
+    374 days - 188
+    377 days - 173
+    486 days - 163
+    366 days - 79
+    200 days - 66
+    441 days - 64
+    422 days - 60
+    790 days - 55
+    317 days - 53
+    373 days - 48
+    458 days - 37
+    425 days - 32
+    395 days - 24
+    343 days - 21
+    610 days - 17
+    393 days - 16
+    394 days - 14
+    1169 days - 12
+    386 days - 12
+    365 days - 10
+    89 days - 8
+    821 days - 8
+    370 days - 7
+    426 days - 7
+    457 days - 6
+    735 days - 6
+    734 days - 5
+    385 days - 5
+    459 days - 5
+    789 days - 5
+    786 days - 4
+    720 days - 3
+    730 days - 2
+    397 days - 2
+    793 days - 2
+    756 days - 2
+    775 days - 2
+    759 days - 2
+    798 days - 1
+    176 days - 1
+    290 days - 1
+    330 days - 1
+    738 days - 1
+  GlobalSign nv-sa
+    366 days - 570
+    474 days - 426
+    475 days - 263
+    479 days - 242
+    278 days - 101
+    397 days - 39
+    290 days - 22
+    365 days - 21
+    256 days - 20
+    202 days - 19
+    363 days - 16
+    396 days - 14
+    779 days - 8
+    203 days - 4
+    141 days - 1
+  TrustAsia Technologies, Inc.
+    365 days - 2
+    395 days - 2
+    366 days - 2
+  Let's Encrypt
+    90 days - 8
+  GoDaddy.com, Inc.
+    425 days - 3
+  Amazon
+    394 days - 3
+    395 days - 2
+    396 days - 2
+  Sectigo Limited
+    730 days - 20
+    365 days - 6
+    744 days - 2
+  Cloudflare, Inc.
+    365 days - 10
+  Trustwave Holdings, Inc.
+    774 days - 7
+  China Financial Certification Authority
+    380 days - 4
+  Entrust, Inc.
+    755 days - 10
