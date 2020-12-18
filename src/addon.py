@@ -48,20 +48,30 @@ class CaptureAddon:
                     "issuer": {
                         issuer_type.decode("utf8"): issuer_contents.decode("utf8")
                         for issuer_type, issuer_contents in flow.server_conn.cert.issuer
-                    },
+                    }
+                    if flow.server_conn.cert.issuer
+                    else None,
                     "notbefore": flow.server_conn.cert.notbefore.isoformat(),
                     "notafter": flow.server_conn.cert.notafter.isoformat(),
                     "has_expired": flow.server_conn.cert.has_expired,
                     "subject": {
                         subject_type.decode("utf8"): subject_contents.decode("utf8")
                         for subject_type, subject_contents in flow.server_conn.cert.subject
-                    },
+                    }
+                    if flow.server_conn.cert.subject
+                    else None,
                     "serial": flow.server_conn.cert.serial,
-                    "cn": flow.server_conn.cert.cn.decode("utf8"),
-                    "organization": flow.server_conn.cert.organization.decode("utf8"),
+                    "cn": flow.server_conn.cert.cn.decode("utf8")
+                    if flow.server_conn.cert.cn
+                    else None,
+                    "organization": flow.server_conn.cert.organization.decode("utf8")
+                    if flow.server_conn.cert.organization
+                    else None,
                     "altnames": [
                         name.decode("utf8") for name in flow.server_conn.cert.altnames
-                    ],
+                    ]
+                    if flow.server_conn.cert.altnames
+                    else None,
                 }
                 if flow.server_conn.cert
                 else None,
