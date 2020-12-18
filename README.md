@@ -43,8 +43,52 @@ to `127.0.0.1:8080`. It is also recommended in `Privacy & Security` to switch
 ## Proxy usage
 
 After the proxy is started, it will forward requests but not start recording. Each time you want to
-group new data (usually a single website), you need to assign a new label. Every request from that
-point on will be grouped under that label, until a new label is set or the proxy is closed.
+group new data (usually a single website), you need to assign a new label (by pressing 1). Every
+request from that point on will be grouped under that label, until a new label is set or the proxy
+is closed. When you are done collecting data, press 2 to quit the proxy. The proxy will write a JSON
+dump to the current directory with all of the captured requests inside of it.
+
+## Processing data
+
+The request json dumps can be analyzed through a few scripts in the repo. There are some pre-created
+example dumps provided in `dumps`, ranging from very basic examples to 50+ sites tagged and visited.
+
+### Generating domain network graphs
+
+`pipenv run python src/graph.py [DUMP_FILE]`
+
+Will generate an HTML file that, when opened in a web browser, will show each label and domain as
+a node in a graph, with edges representing ever connection a site made to a certain domain.
+
+Due to the large size of some of the graphs, it is recommended after they load to disable physics
+so it is easier to look and analyze the data.
+
+### Merging dumps
+
+`pipenv run python src/merge_dumps.py [DUMP_FILE] [DUMP_FILE] ...`
+
+Will combine any number of dumps into a singular merged `merge.json`, containing the data of all
+given requests. If a label is the same between the dumps, the requests under that label will be
+merged.
+
+### TLS statistics
+
+`pipenv run python src/tls_stats.py [DUMP_FILE]`
+
+Will provide a readout on TLS version usage across sites and overall for the entire dump.
+
+### Domain statistics
+
+`pipenv run python src/domain_stats.py [DUMP_FILE]`
+
+Will provide a readout on the number of requests to domains for both sites and for the overall dump.
+
+### Certificate statistics
+
+`pipenv run python src/cert_stats.py [DUMP_FILE]`
+
+Will provide a readout on the most common issuers of the certificates for both sites and the
+overall dump.
 
 ## Development Environment
 
