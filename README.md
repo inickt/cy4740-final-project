@@ -53,6 +53,9 @@ dump to the current directory with all of the captured requests inside of it.
 The request json dumps can be analyzed through a few scripts in the repo. There are some pre-created
 example dumps provided in `dumps`, ranging from very basic examples to 50+ sites tagged and visited.
 
+`deliverables` contains HTML network graph renderings of the data dumps, as well as text based
+statistcs generated from the the following tools:
+
 ### Generating domain network graphs
 
 `pipenv run python src/graph.py [DUMP_FILE]`
