@@ -1,12 +1,8 @@
+from collections import defaultdict, namedtuple
+from dataclasses import dataclass
 from typing import Optional
 
 from mitmproxy import ctx, http
-from dataclasses import dataclass
-from collections import defaultdict, namedtuple
-
-from pprint import pprint
-
-from typing import NamedTuple
 
 Request = namedtuple(
     "Request",
@@ -81,5 +77,6 @@ class CaptureAddon:
             self.captures[self.label].append(request._asdict())
 
     def response(self, flow: http.HTTPFlow) -> None:
-        # print(flow)
+        # we could do something with responses here if we want, but for the focus of this project
+        # we only ended up looking at outgoing requests
         pass

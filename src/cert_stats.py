@@ -1,10 +1,16 @@
 from collections import defaultdict
+from datetime import date, datetime
 import json
 import sys
+
+from pprint import pprint
+
+DATE_FORMAT = "%Y-%m-%dT%H:%M:%S"
 
 
 def main(data):
     overall_issuer_count = defaultdict(int)
+    cert_time = defaultdict(lambda: defaultdict(int))
     for label in data:
         print(f"{label}:\n{'-' * 50}")
         issuer_count = defaultdict(int)
@@ -13,6 +19,12 @@ def main(data):
                 org = request["cert"]["issuer"].get("O") or "Unknown"
                 issuer_count[org] += 1
                 overall_issuer_count[org] += 1
+
+                start = datetime.strptime(request["cert"]["notbefore"], DATE_FORMAT)
+                end = datetime.strptime(request["cert"]["notafter"], DATE_FORMAT)
+                days = (end - start).days
+                cert_time[org][days] += 1
+
             else:
                 issuer_count[None] += 1
                 overall_issuer_count[None] += 1
@@ -31,6 +43,12 @@ def main(data):
     ):
         percent = (float(count) / overall_total) * 100
         print(f"  {issuer or 'No TLS'} - {count} - {percent:.2f}%")
+
+    print(f"\Certificate expiration:\n{'-' * 50}")
+    for org, counts in cert_time.items():
+        print(f"  {org}")
+        for days, count in sorted(counts.items(), key=lambda kv: kv[1], reverse=True):
+            print(f"    {days} days - {count}")
 
 
 if __name__ == "__main__":
