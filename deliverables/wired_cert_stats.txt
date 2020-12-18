@@ -1,0 +1,106 @@
+wired_auth:
+--------------------------------------------------
+  Amazon - 263 - 34.20%
+  DigiCert Inc - 181 - 23.54%
+  Google Trust Services - 159 - 20.68%
+  GlobalSign nv-sa - 108 - 14.04%
+  No TLS - 21 - 2.73%
+  Sectigo Limited - 15 - 1.95%
+  Let's Encrypt - 12 - 1.56%
+  Cloudflare, Inc. - 9 - 1.17%
+  GoDaddy.com, Inc. - 1 - 0.13%
+
+wired:
+--------------------------------------------------
+  Amazon - 375 - 31.38%
+  DigiCert Inc - 375 - 31.38%
+  Google Trust Services - 291 - 24.35%
+  GlobalSign nv-sa - 83 - 6.95%
+  GoDaddy.com, Inc. - 32 - 2.68%
+  Cloudflare, Inc. - 15 - 1.26%
+  Sectigo Limited - 10 - 0.84%
+  Let's Encrypt - 9 - 0.75%
+  No TLS - 4 - 0.33%
+  Network Solutions L.L.C. - 1 - 0.08%
+
+Overall totals:
+--------------------------------------------------
+  Amazon - 638 - 32.48%
+  DigiCert Inc - 556 - 28.31%
+  Google Trust Services - 450 - 22.91%
+  GlobalSign nv-sa - 191 - 9.73%
+  GoDaddy.com, Inc. - 33 - 1.68%
+  Sectigo Limited - 25 - 1.27%
+  No TLS - 25 - 1.27%
+  Cloudflare, Inc. - 24 - 1.22%
+  Let's Encrypt - 21 - 1.07%
+  Network Solutions L.L.C. - 1 - 0.05%
+
+Certificate expiration:
+--------------------------------------------------
+  GlobalSign nv-sa
+    159 days - 188
+    803 days - 2
+    123 days - 1
+  Amazon
+    396 days - 456
+    395 days - 149
+    364 days - 17
+    363 days - 7
+    397 days - 6
+    394 days - 2
+    357 days - 1
+  Cloudflare, Inc.
+    365 days - 24
+  Google Trust Services
+    83 days - 389
+    90 days - 61
+  DigiCert Inc
+    89 days - 74
+    425 days - 55
+    735 days - 49
+    395 days - 42
+    384 days - 37
+    370 days - 36
+    775 days - 36
+    330 days - 35
+    397 days - 33
+    364 days - 21
+    180 days - 21
+    456 days - 20
+    369 days - 14
+    1130 days - 13
+    797 days - 11
+    320 days - 11
+    365 days - 11
+    790 days - 10
+    821 days - 7
+    184 days - 7
+    178 days - 3
+    396 days - 2
+    763 days - 2
+    366 days - 1
+    785 days - 1
+    176 days - 1
+    731 days - 1
+    793 days - 1
+    749 days - 1
+  Sectigo Limited
+    374 days - 17
+    377 days - 6
+    756 days - 1
+    195 days - 1
+  Let's Encrypt
+    90 days - 21
+  GoDaddy.com, Inc.
+    787 days - 12
+    1135 days - 8
+    746 days - 5
+    425 days - 3
+    424 days - 1
+    789 days - 1
+    790 days - 1
+    791 days - 1
+    770 days - 1
+  Network Solutions L.L.C.
+    769 days - 1

@@ -1,0 +1,473 @@
+wired_auth (769):
+--------------------------------------------------
+  163 - capture.condenastdigital.com
+  54 - media.wired.com
+  45 - www.google-analytics.com
+  41 - www.wired.com
+  24 - elsa.memoinsights.com
+  23 - ct.pinterest.com
+  21 - detectportal.firefox.com
+  20 - www.facebook.com
+  17 - play.google.com
+  16 - securepubads.g.doubleclick.net
+  14 - news.google.com
+  12 - condenast.coral.coralproject.net
+  10 - www.google.com
+  10 - api.sail-personalize.com
+  10 - assoc-na.associates-amazon.com
+  10 - t.co
+  10 - srv-2020-12-18-15.pixel.parsely.com
+  10 - dp8hsntg6do36.cloudfront.net
+  10 - platform.twitter.com
+  8 - pixel.condenastdigital.com
+  8 - player.cnevids.com
+  8 - 4d.condenastdigital.com
+  8 - p.skimresources.com
+  8 - api.bounceexchange.com
+  8 - wren.condenastdigital.com
+  8 - events.bouncex.net
+  8 - analytics.twitter.com
+  8 - pagead2.googlesyndication.com
+  7 - id.condenast.com
+  7 - geolocation.onetrust.com
+  7 - analytics.tiktok.com
+  7 - idsync.rlcdn.com
+  7 - sb.scorecardresearch.com
+  5 - cdn.memo.co
+  5 - z-na.associates-amazon.com
+  5 - a.ad.gt
+  5 - sc-static.net
+  5 - tr.snapchat.com
+  5 - pixels.ad.gt
+  5 - static.ads-twitter.com
+  5 - pixel.quantserve.com
+  5 - p.adsymptotic.com
+  5 - syndication.twitter.com
+  4 - cdn.cookielaw.org
+  4 - segment-data.zqtk.net
+  4 - api.condenast.io
+  4 - as-sec.casalemedia.com
+  4 - api.rlcdn.com
+  4 - r.skimresources.com
+  4 - t.skimresources.com
+  4 - mb.moatads.com
+  4 - px.moatads.com
+  4 - px.ads.linkedin.com
+  4 - adservice.google.com
+  4 - assets.bounceexchange.com
+  3 - stats.g.doubleclick.net
+  3 - condenast.demdex.net
+  3 - www.youtube.com
+  2 - static.hotjar.com
+  2 - dpm.demdex.net
+  2 - tag.bounceexchange.com
+  2 - pixel.advertising.com
+  2 - sync.search.spotxchange.com
+  2 - dwgyu36up6iuz.cloudfront.net
+  2 - pbs.twimg.com
+  1 - www.googletagmanager.com
+  1 - www.gstatic.com
+  1 - push.services.mozilla.com
+  1 - privacyportal-eu.onetrust.com
+  1 - usermatch.krxd.net
+  1 - e1.emxdgt.com
+  1 - beacon.krxd.net
+  1 - cm.everesttech.net
+  1 - ids.ad.gt
+  1 - aa.agkn.com
+  1 - tags.bluekai.com
+  1 - ups.analytics.yahoo.com
+  1 - safebrowsing.googleapis.com
+  1 - ak.sail-horizon.com
+  1 - googleads.g.doubleclick.net
+  1 - static.doubleclick.net
+  1 - i.ytimg.com
+  1 - yt3.ggpht.com
+  1 - sync-tm.everesttech.net
+  1 - rtb-csync.smartadserver.com
+  1 - cdn.syndication.twimg.com
+
+wired (1195):
+--------------------------------------------------
+  181 - capture.condenastdigital.com
+  84 - securepubads.g.doubleclick.net
+  49 - pagead2.googlesyndication.com
+  48 - dt.adsafeprotected.com
+  44 - media.wired.com
+  35 - ib.adnxs.com
+  27 - www.google-analytics.com
+  27 - pixel.adsafeprotected.com
+  24 - www.wired.com
+  23 - fastlane.rubiconproject.com
+  21 - c2shb.ssp.yahoo.com
+  21 - pixel.quantserve.com
+  19 - bidder.criteo.com
+  19 - px.moatads.com
+  16 - www.google.com
+  14 - prebid.media.net
+  14 - htlb.casalemedia.com
+  14 - condenastus-d.openx.net
+  14 - ct.pinterest.com
+  13 - elsa.memoinsights.com
+  13 - googleads4.g.doubleclick.net
+  12 - ad.doubleclick.net
+  12 - dwgyu36up6iuz.cloudfront.net
+  12 - dtvc.adsafeprotected.com
+  12 - choices.trustarc.com
+  11 - play.google.com
+  11 - dp8hsntg6do36.cloudfront.net
+  11 - ssum-sec.casalemedia.com
+  10 - pubads.g.doubleclick.net
+  10 - www.facebook.com
+  10 - wren.condenastdigital.com
+  9 - news.google.com
+  9 - u.openx.net
+  9 - us-u.openx.net
+  9 - googleads.g.doubleclick.net
+  9 - dsum-sec.casalemedia.com
+  8 - choices.truste.com
+  8 - sc.iasds01.com
+  7 - assoc-na.associates-amazon.com
+  7 - events.bouncex.net
+  7 - player.cnevids.com
+  7 - srv-2020-12-18-15.pixel.parsely.com
+  7 - pixel.tapad.com
+  7 - c.amazon-adsystem.com
+  7 - condenast.coral.coralproject.net
+  7 - gum.criteo.com
+  7 - pixel.rubiconproject.com
+  6 - polarcdn-pentos.com
+  6 - adservice.google.com
+  6 - pixel.condenastdigital.com
+  6 - 4d.condenastdigital.com
+  6 - api.sail-personalize.com
+  6 - t.co
+  6 - verizonwireless.demdex.net
+  6 - um2.eqads.com
+  6 - dnacdn.net
+  5 - api.bounceexchange.com
+  5 - polarcdn-terrax.com
+  5 - s0.2mdn.net
+  5 - cdn.coral.coralproject.net
+  5 - sync.crwdcntrl.net
+  4 - match.sharethrough.com
+  4 - sb.scorecardresearch.com
+  4 - idsync.rlcdn.com
+  4 - p.skimresources.com
+  4 - rtb.adentifi.com
+  4 - detectportal.firefox.com
+  3 - pbs.getpublica.com
+  3 - geolocation.onetrust.com
+  3 - analytics.tiktok.com
+  3 - a.ad.gt
+  3 - cdn.memo.co
+  3 - z-na.associates-amazon.com
+  3 - as-sec.casalemedia.com
+  3 - sc-static.net
+  3 - pixels.ad.gt
+  3 - tr.snapchat.com
+  3 - static.ads-twitter.com
+  3 - mb.moatads.com
+  3 - px.ads.linkedin.com
+  3 - tpc.googlesyndication.com
+  3 - px.owneriq.net
+  3 - pm.w55c.net
+  3 - a.tribalfusion.com
+  3 - safebrowsing.googleapis.com
+  3 - csm.va.us.criteo.net
+  3 - coral-styles.conde.io
+  3 - gem.gbc.criteo.com
+  3 - ag.gbc.criteo.com
+  3 - mug.criteo.com
+  2 - vulcan.condenastdigital.com
+  2 - condenast.demdex.net
+  2 - segment-data.zqtk.net
+  2 - r.skimresources.com
+  2 - t.myvisualiq.net
+  2 - t.skimresources.com
+  2 - stats.g.doubleclick.net
+  2 - id.rlcdn.com
+  2 - mpp.vindicosuite.com
+  2 - openx2-match.dotomi.com
+  2 - fwvc.adsafeprotected.com
+  2 - img-getpocket.cdn.mozilla.net
+  2 - analytics.twitter.com
+  1 - sync.targeting.unrulymedia.com
+  1 - assets.bounceexchange.com
+  1 - covers.conde.io
+  1 - tapestry.tapad.com
+  1 - s.amazon-adsystem.com
+  1 - i.w55c.net
+  1 - c1.adform.net
+  1 - normandy.cdn.mozilla.net
+  1 - tracks.momagic.com
+  1 - match.deepintent.com
+  1 - classify-client.services.mozilla.com
+  1 - publish.responsiveads.com
+  1 - tps.doubleverify.com
+  1 - dmp.adblade.com
+  1 - secure.adnxs.com
+  1 - bttrack.com
+  1 - token.rubiconproject.com
+  1 - hblg.media.net
+  1 - api.condenast.io
+  1 - lh5.googleusercontent.com
+  1 - cm.adgrx.com
+  1 - p.adsymptotic.com
+  1 - match.prod.bidr.io
+  1 - d75ccb1cc72422edd361f6230eda8adf.safeframe.googlesyndication.com
+  1 - trace.mediago.io
+  1 - match.adsby.bidtheatre.com
+  1 - fonts.googleapis.com
+  1 - nep.advangelists.com
+  1 - eb2.3lift.com
+  1 - sync.adotmob.com
+  1 - dsum.casalemedia.com
+  1 - rcp.c.appier.net
+  1 - cs.media.net
+  1 - sync.srv.stackadapt.com
+  1 - tr.blismedia.com
+  1 - pixel-sync.sitescout.com
+  1 - openx.adhaven.com
+  1 - ad.turn.com
+  1 - match.rundsp.com
+  1 - loadm.exelator.com
+  1 - spocs.getpocket.com
+  1 - getpocket.cdn.mozilla.net
+
+Overall totals (1195):
+--------------------------------------------------
+  344 - capture.condenastdigital.com
+  100 - securepubads.g.doubleclick.net
+  98 - media.wired.com
+  72 - www.google-analytics.com
+  65 - www.wired.com
+  57 - pagead2.googlesyndication.com
+  48 - dt.adsafeprotected.com
+  37 - ct.pinterest.com
+  37 - elsa.memoinsights.com
+  35 - ib.adnxs.com
+  30 - www.facebook.com
+  28 - play.google.com
+  27 - pixel.adsafeprotected.com
+  26 - www.google.com
+  26 - pixel.quantserve.com
+  25 - detectportal.firefox.com
+  23 - news.google.com
+  23 - px.moatads.com
+  23 - fastlane.rubiconproject.com
+  21 - dp8hsntg6do36.cloudfront.net
+  21 - c2shb.ssp.yahoo.com
+  19 - condenast.coral.coralproject.net
+  19 - bidder.criteo.com
+  18 - wren.condenastdigital.com
+  17 - assoc-na.associates-amazon.com
+  17 - srv-2020-12-18-15.pixel.parsely.com
+  16 - api.sail-personalize.com
+  16 - t.co
+  15 - player.cnevids.com
+  15 - events.bouncex.net
+  14 - pixel.condenastdigital.com
+  14 - 4d.condenastdigital.com
+  14 - dwgyu36up6iuz.cloudfront.net
+  14 - prebid.media.net
+  14 - htlb.casalemedia.com
+  14 - condenastus-d.openx.net
+  13 - api.bounceexchange.com
+  13 - googleads4.g.doubleclick.net
+  12 - p.skimresources.com
+  12 - ad.doubleclick.net
+  12 - dtvc.adsafeprotected.com
+  12 - choices.trustarc.com
+  11 - idsync.rlcdn.com
+  11 - sb.scorecardresearch.com
+  11 - ssum-sec.casalemedia.com
+  10 - geolocation.onetrust.com
+  10 - analytics.tiktok.com
+  10 - adservice.google.com
+  10 - analytics.twitter.com
+  10 - googleads.g.doubleclick.net
+  10 - platform.twitter.com
+  10 - pubads.g.doubleclick.net
+  9 - u.openx.net
+  9 - us-u.openx.net
+  9 - dsum-sec.casalemedia.com
+  8 - cdn.memo.co
+  8 - z-na.associates-amazon.com
+  8 - a.ad.gt
+  8 - sc-static.net
+  8 - tr.snapchat.com
+  8 - pixels.ad.gt
+  8 - static.ads-twitter.com
+  8 - choices.truste.com
+  8 - sc.iasds01.com
+  7 - id.condenast.com
+  7 - as-sec.casalemedia.com
+  7 - mb.moatads.com
+  7 - px.ads.linkedin.com
+  7 - pixel.tapad.com
+  7 - c.amazon-adsystem.com
+  7 - gum.criteo.com
+  7 - pixel.rubiconproject.com
+  6 - segment-data.zqtk.net
+  6 - r.skimresources.com
+  6 - t.skimresources.com
+  6 - p.adsymptotic.com
+  6 - polarcdn-pentos.com
+  6 - verizonwireless.demdex.net
+  6 - um2.eqads.com
+  6 - dnacdn.net
+  5 - api.condenast.io
+  5 - stats.g.doubleclick.net
+  5 - condenast.demdex.net
+  5 - assets.bounceexchange.com
+  5 - syndication.twitter.com
+  5 - polarcdn-terrax.com
+  5 - s0.2mdn.net
+  5 - cdn.coral.coralproject.net
+  5 - sync.crwdcntrl.net
+  4 - cdn.cookielaw.org
+  4 - api.rlcdn.com
+  4 - safebrowsing.googleapis.com
+  4 - match.sharethrough.com
+  4 - rtb.adentifi.com
+  3 - www.youtube.com
+  3 - pbs.getpublica.com
+  3 - tpc.googlesyndication.com
+  3 - px.owneriq.net
+  3 - pm.w55c.net
+  3 - a.tribalfusion.com
+  3 - csm.va.us.criteo.net
+  3 - coral-styles.conde.io
+  3 - gem.gbc.criteo.com
+  3 - ag.gbc.criteo.com
+  3 - mug.criteo.com
+  2 - static.hotjar.com
+  2 - dpm.demdex.net
+  2 - tag.bounceexchange.com
+  2 - pixel.advertising.com
+  2 - sync.search.spotxchange.com
+  2 - pbs.twimg.com
+  2 - vulcan.condenastdigital.com
+  2 - t.myvisualiq.net
+  2 - id.rlcdn.com
+  2 - mpp.vindicosuite.com
+  2 - openx2-match.dotomi.com
+  2 - fwvc.adsafeprotected.com
+  2 - img-getpocket.cdn.mozilla.net
+  1 - www.googletagmanager.com
+  1 - www.gstatic.com
+  1 - push.services.mozilla.com
+  1 - privacyportal-eu.onetrust.com
+  1 - usermatch.krxd.net
+  1 - e1.emxdgt.com
+  1 - beacon.krxd.net
+  1 - cm.everesttech.net
+  1 - ids.ad.gt
+  1 - aa.agkn.com
+  1 - tags.bluekai.com
+  1 - ups.analytics.yahoo.com
+  1 - ak.sail-horizon.com
+  1 - static.doubleclick.net
+  1 - i.ytimg.com
+  1 - yt3.ggpht.com
+  1 - sync-tm.everesttech.net
+  1 - rtb-csync.smartadserver.com
+  1 - cdn.syndication.twimg.com
+  1 - sync.targeting.unrulymedia.com
+  1 - covers.conde.io
+  1 - tapestry.tapad.com
+  1 - s.amazon-adsystem.com
+  1 - i.w55c.net
+  1 - c1.adform.net
+  1 - normandy.cdn.mozilla.net
+  1 - tracks.momagic.com
+  1 - match.deepintent.com
+  1 - classify-client.services.mozilla.com
+  1 - publish.responsiveads.com
+  1 - tps.doubleverify.com
+  1 - dmp.adblade.com
+  1 - secure.adnxs.com
+  1 - bttrack.com
+  1 - token.rubiconproject.com
+  1 - hblg.media.net
+  1 - lh5.googleusercontent.com
+  1 - cm.adgrx.com
+  1 - match.prod.bidr.io
+  1 - d75ccb1cc72422edd361f6230eda8adf.safeframe.googlesyndication.com
+  1 - trace.mediago.io
+  1 - match.adsby.bidtheatre.com
+  1 - fonts.googleapis.com
+  1 - nep.advangelists.com
+  1 - eb2.3lift.com
+  1 - sync.adotmob.com
+  1 - dsum.casalemedia.com
+  1 - rcp.c.appier.net
+  1 - cs.media.net
+  1 - sync.srv.stackadapt.com
+  1 - tr.blismedia.com
+  1 - pixel-sync.sitescout.com
+  1 - openx.adhaven.com
+  1 - ad.turn.com
+  1 - match.rundsp.com
+  1 - loadm.exelator.com
+  1 - spocs.getpocket.com
+  1 - getpocket.cdn.mozilla.net
+
+Cross usage totals:
+--------------------------------------------------
+  2 - www.wired.com - (wired_auth, wired)
+  2 - www.google.com - (wired_auth, wired)
+  2 - geolocation.onetrust.com - (wired_auth, wired)
+  2 - www.google-analytics.com - (wired_auth, wired)
+  2 - pixel.condenastdigital.com - (wired_auth, wired)
+  2 - media.wired.com - (wired_auth, wired)
+  2 - news.google.com - (wired_auth, wired)
+  2 - segment-data.zqtk.net - (wired_auth, wired)
+  2 - player.cnevids.com - (wired_auth, wired)
+  2 - api.condenast.io - (wired_auth, wired)
+  2 - condenast.coral.coralproject.net - (wired_auth, wired)
+  2 - as-sec.casalemedia.com - (wired_auth, wired)
+  2 - cdn.memo.co - (wired_auth, wired)
+  2 - analytics.tiktok.com - (wired_auth, wired)
+  2 - z-na.associates-amazon.com - (wired_auth, wired)
+  2 - 4d.condenastdigital.com - (wired_auth, wired)
+  2 - api.sail-personalize.com - (wired_auth, wired)
+  2 - capture.condenastdigital.com - (wired_auth, wired)
+  2 - a.ad.gt - (wired_auth, wired)
+  2 - ct.pinterest.com - (wired_auth, wired)
+  2 - play.google.com - (wired_auth, wired)
+  2 - sc-static.net - (wired_auth, wired)
+  2 - assoc-na.associates-amazon.com - (wired_auth, wired)
+  2 - elsa.memoinsights.com - (wired_auth, wired)
+  2 - tr.snapchat.com - (wired_auth, wired)
+  2 - pixels.ad.gt - (wired_auth, wired)
+  2 - idsync.rlcdn.com - (wired_auth, wired)
+  2 - sb.scorecardresearch.com - (wired_auth, wired)
+  2 - detectportal.firefox.com - (wired_auth, wired)
+  2 - r.skimresources.com - (wired_auth, wired)
+  2 - static.ads-twitter.com - (wired_auth, wired)
+  2 - t.skimresources.com - (wired_auth, wired)
+  2 - t.co - (wired_auth, wired)
+  2 - mb.moatads.com - (wired_auth, wired)
+  2 - srv-2020-12-18-15.pixel.parsely.com - (wired_auth, wired)
+  2 - px.moatads.com - (wired_auth, wired)
+  2 - stats.g.doubleclick.net - (wired_auth, wired)
+  2 - p.skimresources.com - (wired_auth, wired)
+  2 - px.ads.linkedin.com - (wired_auth, wired)
+  2 - pixel.quantserve.com - (wired_auth, wired)
+  2 - adservice.google.com - (wired_auth, wired)
+  2 - www.facebook.com - (wired_auth, wired)
+  2 - api.bounceexchange.com - (wired_auth, wired)
+  2 - p.adsymptotic.com - (wired_auth, wired)
+  2 - wren.condenastdigital.com - (wired_auth, wired)
+  2 - securepubads.g.doubleclick.net - (wired_auth, wired)
+  2 - events.bouncex.net - (wired_auth, wired)
+  2 - analytics.twitter.com - (wired_auth, wired)
+  2 - pagead2.googlesyndication.com - (wired_auth, wired)
+  2 - condenast.demdex.net - (wired_auth, wired)
+  2 - assets.bounceexchange.com - (wired_auth, wired)
+  2 - safebrowsing.googleapis.com - (wired_auth, wired)
+  2 - dp8hsntg6do36.cloudfront.net - (wired_auth, wired)
+  2 - dwgyu36up6iuz.cloudfront.net - (wired_auth, wired)
+  2 - googleads.g.doubleclick.net - (wired_auth, wired)
