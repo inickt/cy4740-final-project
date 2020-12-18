@@ -44,7 +44,7 @@ def main(data):
         percent = (float(count) / overall_total) * 100
         print(f"  {issuer or 'No TLS'} - {count} - {percent:.2f}%")
 
-    print(f"\Certificate expiration:\n{'-' * 50}")
+    print(f"\nCertificate expiration:\n{'-' * 50}")
     for org, counts in cert_time.items():
         print(f"  {org}")
         for days, count in sorted(counts.items(), key=lambda kv: kv[1], reverse=True):

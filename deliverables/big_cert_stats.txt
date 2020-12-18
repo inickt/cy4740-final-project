@@ -640,7 +640,8 @@ Overall totals:
   Cybertrust Japan Co., Ltd. - 3 - 0.01%
   Yandex LLC - 3 - 0.01%
   SSL Corporation - 2 - 0.01%
-\Certificate expiration:
+
+Certificate expiration:
 --------------------------------------------------
   Google Trust Services
     83 days - 5187

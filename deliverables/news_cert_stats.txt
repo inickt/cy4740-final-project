@@ -1,0 +1,753 @@
+CNN:
+--------------------------------------------------
+  DigiCert Inc - 1694 - 44.42%
+  Google Trust Services - 594 - 15.57%
+  Amazon - 496 - 13.00%
+  GlobalSign nv-sa - 364 - 9.54%
+  Sectigo Limited - 250 - 6.55%
+  Network Solutions L.L.C. - 101 - 2.65%
+  Let's Encrypt - 85 - 2.23%
+  GoDaddy.com, Inc. - 80 - 2.10%
+  Cloudflare, Inc. - 63 - 1.65%
+  Trustwave Holdings, Inc. - 41 - 1.07%
+  COMODO CA Limited - 32 - 0.84%
+  Microsoft Corporation - 7 - 0.18%
+  No TLS - 6 - 0.16%
+  Entrust, Inc. - 1 - 0.03%
+
+BBC:
+--------------------------------------------------
+  GlobalSign nv-sa - 379 - 23.48%
+  Google Trust Services - 331 - 20.51%
+  DigiCert Inc - 322 - 19.95%
+  Amazon - 247 - 15.30%
+  Network Solutions L.L.C. - 128 - 7.93%
+  Let's Encrypt - 112 - 6.94%
+  GoDaddy.com, Inc. - 44 - 2.73%
+  Sectigo Limited - 43 - 2.66%
+  Cloudflare, Inc. - 6 - 0.37%
+  Trustwave Holdings, Inc. - 2 - 0.12%
+
+The Guardian:
+--------------------------------------------------
+  Amazon - 313 - 21.26%
+  GlobalSign nv-sa - 312 - 21.20%
+  DigiCert Inc - 258 - 17.53%
+  Google Trust Services - 220 - 14.95%
+  Sectigo Limited - 113 - 7.68%
+  Let's Encrypt - 78 - 5.30%
+  COMODO CA Limited - 52 - 3.53%
+  GoDaddy.com, Inc. - 50 - 3.40%
+  No TLS - 25 - 1.70%
+  Cloudflare, Inc. - 15 - 1.02%
+  Gandi - 15 - 1.02%
+  Network Solutions L.L.C. - 13 - 0.88%
+  Trustwave Holdings, Inc. - 6 - 0.41%
+  Entrust, Inc. - 2 - 0.14%
+
+Fox News:
+--------------------------------------------------
+  DigiCert Inc - 1541 - 57.46%
+  Google Trust Services - 600 - 22.37%
+  Amazon - 155 - 5.78%
+  Network Solutions L.L.C. - 101 - 3.77%
+  Sectigo Limited - 100 - 3.73%
+  COMODO CA Limited - 63 - 2.35%
+  GoDaddy.com, Inc. - 43 - 1.60%
+  Let's Encrypt - 24 - 0.89%
+  GlobalSign nv-sa - 14 - 0.52%
+  Cloudflare, Inc. - 14 - 0.52%
+  Microsoft Corporation - 9 - 0.34%
+  Entrust, Inc. - 9 - 0.34%
+  No TLS - 3 - 0.11%
+  Trustwave Holdings, Inc. - 2 - 0.07%
+  Cybertrust Japan Co., Ltd. - 2 - 0.07%
+  Starfield Technologies, Inc. - 1 - 0.04%
+  Yandex LLC - 1 - 0.04%
+
+NYT:
+--------------------------------------------------
+  Sectigo Limited - 724 - 43.04%
+  Google Trust Services - 420 - 24.97%
+  DigiCert Inc - 353 - 20.99%
+  Amazon - 98 - 5.83%
+  GlobalSign nv-sa - 25 - 1.49%
+  Cloudflare, Inc. - 24 - 1.43%
+  GoDaddy.com, Inc. - 12 - 0.71%
+  Microsoft Corporation - 11 - 0.65%
+  Trustwave Holdings, Inc. - 4 - 0.24%
+  Entrust, Inc. - 3 - 0.18%
+  No TLS - 3 - 0.18%
+  Let's Encrypt - 2 - 0.12%
+  home.pl S.A. - 2 - 0.12%
+  Yandex LLC - 1 - 0.06%
+
+Washington Post:
+--------------------------------------------------
+  Entrust, Inc. - 478 - 30.90%
+  DigiCert Inc - 389 - 25.15%
+  Google Trust Services - 320 - 20.69%
+  Amazon - 139 - 8.99%
+  Network Solutions L.L.C. - 78 - 5.04%
+  Sectigo Limited - 53 - 3.43%
+  COMODO CA Limited - 27 - 1.75%
+  GlobalSign nv-sa - 14 - 0.90%
+  Let's Encrypt - 14 - 0.90%
+  GoDaddy.com, Inc. - 12 - 0.78%
+  Cloudflare, Inc. - 8 - 0.52%
+  Trustwave Holdings, Inc. - 7 - 0.45%
+  SSL Corporation - 6 - 0.39%
+  Gandi - 1 - 0.06%
+  Yandex LLC - 1 - 0.06%
+
+NBC News:
+--------------------------------------------------
+  DigiCert Inc - 1423 - 66.43%
+  Amazon - 192 - 8.96%
+  Google Trust Services - 182 - 8.50%
+  Let's Encrypt - 114 - 5.32%
+  Sectigo Limited - 65 - 3.03%
+  Network Solutions L.L.C. - 59 - 2.75%
+  GoDaddy.com, Inc. - 32 - 1.49%
+  COMODO CA Limited - 20 - 0.93%
+  Entrust, Inc. - 17 - 0.79%
+  GlobalSign nv-sa - 13 - 0.61%
+  Trustwave Holdings, Inc. - 7 - 0.33%
+  SSL Corporation - 6 - 0.28%
+  No TLS - 6 - 0.28%
+  Cloudflare, Inc. - 5 - 0.23%
+  Starfield Technologies, Inc. - 1 - 0.05%
+
+Forbes:
+--------------------------------------------------
+  DigiCert Inc - 1066 - 37.96%
+  Google Trust Services - 683 - 24.32%
+  Amazon - 354 - 12.61%
+  GlobalSign nv-sa - 284 - 10.11%
+  Sectigo Limited - 223 - 7.94%
+  COMODO CA Limited - 56 - 1.99%
+  Network Solutions L.L.C. - 49 - 1.75%
+  Cloudflare, Inc. - 36 - 1.28%
+  GoDaddy.com, Inc. - 29 - 1.03%
+  Let's Encrypt - 17 - 0.61%
+  Gandi - 4 - 0.14%
+  Microsoft Corporation - 3 - 0.11%
+  Trustwave Holdings, Inc. - 3 - 0.11%
+  Entrust, Inc. - 1 - 0.04%
+
+NPR:
+--------------------------------------------------
+  DigiCert Inc - 286 - 56.97%
+  Google Trust Services - 118 - 23.51%
+  Amazon - 40 - 7.97%
+  Sectigo Limited - 30 - 5.98%
+  Network Solutions L.L.C. - 11 - 2.19%
+  GlobalSign nv-sa - 8 - 1.59%
+  Cloudflare, Inc. - 6 - 1.20%
+  GoDaddy.com, Inc. - 3 - 0.60%
+
+Huffington Post:
+--------------------------------------------------
+  DigiCert Inc - 1421 - 72.02%
+  Amazon - 151 - 7.65%
+  Google Trust Services - 148 - 7.50%
+  Network Solutions L.L.C. - 79 - 4.00%
+  GoDaddy.com, Inc. - 65 - 3.29%
+  Sectigo Limited - 31 - 1.57%
+  Cloudflare, Inc. - 27 - 1.37%
+  Let's Encrypt - 18 - 0.91%
+  GlobalSign nv-sa - 13 - 0.66%
+  No TLS - 5 - 0.25%
+  Microsoft Corporation - 4 - 0.20%
+  COMODO CA Limited - 3 - 0.15%
+  Trustwave Holdings, Inc. - 3 - 0.15%
+  SSL Corporation - 2 - 0.10%
+  Cybertrust Japan Co., Ltd. - 2 - 0.10%
+  Starfield Technologies, Inc. - 1 - 0.05%
+
+BuzzFeed:
+--------------------------------------------------
+  GlobalSign nv-sa - 580 - 36.27%
+  Google Trust Services - 448 - 28.02%
+  DigiCert Inc - 289 - 18.07%
+  Amazon - 179 - 11.19%
+  GoDaddy.com, Inc. - 38 - 2.38%
+  Let's Encrypt - 27 - 1.69%
+  Sectigo Limited - 16 - 1.00%
+  Network Solutions L.L.C. - 11 - 0.69%
+  Cloudflare, Inc. - 9 - 0.56%
+  Yandex LLC - 2 - 0.13%
+
+CNET:
+--------------------------------------------------
+  DigiCert Inc - 442 - 51.58%
+  Google Trust Services - 177 - 20.65%
+  Amazon - 175 - 20.42%
+  GoDaddy.com, Inc. - 14 - 1.63%
+  COMODO CA Limited - 13 - 1.52%
+  Sectigo Limited - 11 - 1.28%
+  Let's Encrypt - 8 - 0.93%
+  Cloudflare, Inc. - 5 - 0.58%
+  Gandi - 4 - 0.47%
+  Network Solutions L.L.C. - 4 - 0.47%
+  Trustwave Holdings, Inc. - 2 - 0.23%
+  GlobalSign nv-sa - 1 - 0.12%
+  Entrust, Inc. - 1 - 0.12%
+
+Reuters:
+--------------------------------------------------
+  DigiCert Inc - 492 - 28.99%
+  Amazon - 442 - 26.05%
+  Google Trust Services - 291 - 17.15%
+  Cloudflare, Inc. - 214 - 12.61%
+  Network Solutions L.L.C. - 97 - 5.72%
+  GoDaddy.com, Inc. - 96 - 5.66%
+  Sectigo Limited - 36 - 2.12%
+  GlobalSign nv-sa - 12 - 0.71%
+  COMODO CA Limited - 6 - 0.35%
+  SSL Corporation - 4 - 0.24%
+  Let's Encrypt - 3 - 0.18%
+  Trustwave Holdings, Inc. - 2 - 0.12%
+  Gandi - 1 - 0.06%
+  Starfield Technologies, Inc. - 1 - 0.06%
+
+Bloomberg:
+--------------------------------------------------
+  DigiCert Inc - 1601 - 60.78%
+  Amazon - 390 - 14.81%
+  Google Trust Services - 287 - 10.90%
+  Let's Encrypt - 104 - 3.95%
+  GoDaddy.com, Inc. - 78 - 2.96%
+  Network Solutions L.L.C. - 44 - 1.67%
+  Sectigo Limited - 42 - 1.59%
+  COMODO CA Limited - 29 - 1.10%
+  Microsoft Corporation - 23 - 0.87%
+  GlobalSign nv-sa - 17 - 0.65%
+  Cloudflare, Inc. - 14 - 0.53%
+  Gandi - 3 - 0.11%
+  Entrust, Inc. - 2 - 0.08%
+
+New York Post:
+--------------------------------------------------
+  DigiCert Inc - 1064 - 35.68%
+  Amazon - 651 - 21.83%
+  Google Trust Services - 543 - 18.21%
+  Sectigo Limited - 273 - 9.15%
+  Let's Encrypt - 213 - 7.14%
+  GoDaddy.com, Inc. - 117 - 3.92%
+  Network Solutions L.L.C. - 46 - 1.54%
+  Trustwave Holdings, Inc. - 36 - 1.21%
+  Cloudflare, Inc. - 23 - 0.77%
+  Entrust, Inc. - 8 - 0.27%
+  GlobalSign nv-sa - 6 - 0.20%
+  COMODO CA Limited - 2 - 0.07%
+
+The Hill:
+--------------------------------------------------
+  DigiCert Inc - 376 - 33.57%
+  Google Trust Services - 350 - 31.25%
+  Amazon - 138 - 12.32%
+  GlobalSign nv-sa - 135 - 12.05%
+  Cloudflare, Inc. - 37 - 3.30%
+  Sectigo Limited - 25 - 2.23%
+  Let's Encrypt - 23 - 2.05%
+  COMODO CA Limited - 21 - 1.88%
+  GoDaddy.com, Inc. - 7 - 0.62%
+  Microsoft Corporation - 4 - 0.36%
+  No TLS - 3 - 0.27%
+  Trustwave Holdings, Inc. - 1 - 0.09%
+
+Wired:
+--------------------------------------------------
+  Amazon - 1341 - 32.47%
+  DigiCert Inc - 1172 - 28.38%
+  Google Trust Services - 803 - 19.44%
+  GlobalSign nv-sa - 328 - 7.94%
+  Network Solutions L.L.C. - 206 - 4.99%
+  Sectigo Limited - 184 - 4.46%
+  Cloudflare, Inc. - 37 - 0.90%
+  Let's Encrypt - 21 - 0.51%
+  GoDaddy.com, Inc. - 15 - 0.36%
+  No TLS - 9 - 0.22%
+  Trustwave Holdings, Inc. - 8 - 0.19%
+  Entrust, Inc. - 3 - 0.07%
+  COMODO CA Limited - 1 - 0.02%
+  home.pl S.A. - 1 - 0.02%
+  Starfield Technologies, Inc. - 1 - 0.02%
+
+Politico:
+--------------------------------------------------
+  DigiCert Inc - 792 - 46.42%
+  Google Trust Services - 313 - 18.35%
+  Cloudflare, Inc. - 159 - 9.32%
+  Amazon - 105 - 6.15%
+  Let's Encrypt - 102 - 5.98%
+  Sectigo Limited - 72 - 4.22%
+  Network Solutions L.L.C. - 65 - 3.81%
+  GoDaddy.com, Inc. - 54 - 3.17%
+  GlobalSign nv-sa - 27 - 1.58%
+  Trustwave Holdings, Inc. - 6 - 0.35%
+  Gandi - 5 - 0.29%
+  SSL Corporation - 3 - 0.18%
+  No TLS - 3 - 0.18%
+
+Vox:
+--------------------------------------------------
+  DigiCert Inc - 730 - 31.73%
+  Google Trust Services - 700 - 30.42%
+  GlobalSign nv-sa - 207 - 9.00%
+  Amazon - 167 - 7.26%
+  Network Solutions L.L.C. - 141 - 6.13%
+  GoDaddy.com, Inc. - 120 - 5.22%
+  Let's Encrypt - 99 - 4.30%
+  Sectigo Limited - 78 - 3.39%
+  Cloudflare, Inc. - 44 - 1.91%
+  Trustwave Holdings, Inc. - 8 - 0.35%
+  COMODO CA Limited - 7 - 0.30%
+
+The Verge:
+--------------------------------------------------
+  Google Trust Services - 424 - 28.44%
+  DigiCert Inc - 410 - 27.50%
+  GlobalSign nv-sa - 223 - 14.96%
+  Amazon - 162 - 10.87%
+  Let's Encrypt - 109 - 7.31%
+  GoDaddy.com, Inc. - 76 - 5.10%
+  Sectigo Limited - 40 - 2.68%
+  Network Solutions L.L.C. - 25 - 1.68%
+  COMODO CA Limited - 9 - 0.60%
+  Cloudflare, Inc. - 6 - 0.40%
+  Trustwave Holdings, Inc. - 3 - 0.20%
+  No TLS - 3 - 0.20%
+  Cybertrust Japan Co., Ltd. - 1 - 0.07%
+
+USA Today:
+--------------------------------------------------
+  DigiCert Inc - 705 - 30.27%
+  Let's Encrypt - 583 - 25.03%
+  Google Trust Services - 511 - 21.94%
+  Amazon - 236 - 10.13%
+  Sectigo Limited - 167 - 7.17%
+  GoDaddy.com, Inc. - 46 - 1.98%
+  Cloudflare, Inc. - 22 - 0.94%
+  GlobalSign nv-sa - 20 - 0.86%
+  No TLS - 12 - 0.52%
+  Gandi - 9 - 0.39%
+  COMODO CA Limited - 8 - 0.34%
+  Entrust, Inc. - 5 - 0.21%
+  Trustwave Holdings, Inc. - 3 - 0.13%
+  Microsoft Corporation - 1 - 0.04%
+  Starfield Technologies, Inc. - 1 - 0.04%
+
+Yahoo! News:
+--------------------------------------------------
+  DigiCert Inc - 1016 - 86.25%
+  Google Trust Services - 103 - 8.74%
+  Amazon - 17 - 1.44%
+  GoDaddy.com, Inc. - 13 - 1.10%
+  Let's Encrypt - 11 - 0.93%
+  Network Solutions L.L.C. - 9 - 0.76%
+  Sectigo Limited - 5 - 0.42%
+  GlobalSign nv-sa - 1 - 0.08%
+  Cloudflare, Inc. - 1 - 0.08%
+  SSL Corporation - 1 - 0.08%
+  Trustwave Holdings, Inc. - 1 - 0.08%
+
+LA Times:
+--------------------------------------------------
+  DigiCert Inc - 736 - 33.24%
+  Google Trust Services - 549 - 24.80%
+  Amazon - 474 - 21.41%
+  GoDaddy.com, Inc. - 181 - 8.18%
+  Sectigo Limited - 97 - 4.38%
+  Let's Encrypt - 65 - 2.94%
+  Cloudflare, Inc. - 32 - 1.45%
+  Network Solutions L.L.C. - 24 - 1.08%
+  Gandi - 23 - 1.04%
+  GlobalSign nv-sa - 13 - 0.59%
+  Microsoft Corporation - 11 - 0.50%
+  Trustwave Holdings, Inc. - 6 - 0.27%
+  No TLS - 3 - 0.14%
+
+Breitbart:
+--------------------------------------------------
+  Google Trust Services - 710 - 40.53%
+  Sectigo Limited - 338 - 19.29%
+  DigiCert Inc - 278 - 15.87%
+  Amazon - 155 - 8.85%
+  Cloudflare, Inc. - 151 - 8.62%
+  GoDaddy.com, Inc. - 43 - 2.45%
+  GlobalSign nv-sa - 35 - 2.00%
+  Let's Encrypt - 30 - 1.71%
+  No TLS - 6 - 0.34%
+  Trustwave Holdings, Inc. - 2 - 0.11%
+  COMODO CA Limited - 1 - 0.06%
+  Entrust, Inc. - 1 - 0.06%
+  Microsoft Corporation - 1 - 0.06%
+  SSL Corporation - 1 - 0.06%
+
+ABC News:
+--------------------------------------------------
+  DigiCert Inc - 477 - 53.18%
+  Google Trust Services - 179 - 19.96%
+  Amazon - 129 - 14.38%
+  Network Solutions L.L.C. - 31 - 3.46%
+  Let's Encrypt - 30 - 3.34%
+  Entrust, Inc. - 17 - 1.90%
+  GoDaddy.com, Inc. - 14 - 1.56%
+  COMODO CA Limited - 8 - 0.89%
+  GlobalSign nv-sa - 6 - 0.67%
+  Sectigo Limited - 6 - 0.67%
+
+CBS News:
+--------------------------------------------------
+  DigiCert Inc - 581 - 73.73%
+  Google Trust Services - 113 - 14.34%
+  Amazon - 49 - 6.22%
+  Sectigo Limited - 13 - 1.65%
+  Let's Encrypt - 10 - 1.27%
+  GlobalSign nv-sa - 7 - 0.89%
+  Gandi - 7 - 0.89%
+  Cloudflare, Inc. - 4 - 0.51%
+  Entrust, Inc. - 1 - 0.13%
+  Trustwave Holdings, Inc. - 1 - 0.13%
+  COMODO CA Limited - 1 - 0.13%
+  GoDaddy.com, Inc. - 1 - 0.13%
+
+Chicago Tribune:
+--------------------------------------------------
+  DigiCert Inc - 547 - 34.10%
+  Google Trust Services - 367 - 22.88%
+  Let's Encrypt - 235 - 14.65%
+  Amazon - 185 - 11.53%
+  GoDaddy.com, Inc. - 105 - 6.55%
+  Sectigo Limited - 64 - 3.99%
+  Network Solutions L.L.C. - 26 - 1.62%
+  Cloudflare, Inc. - 21 - 1.31%
+  COMODO CA Limited - 15 - 0.94%
+  GlobalSign nv-sa - 13 - 0.81%
+  No TLS - 9 - 0.56%
+  Microsoft Corporation - 8 - 0.50%
+  Gandi - 4 - 0.25%
+  Trustwave Holdings, Inc. - 3 - 0.19%
+  Entrust, Inc. - 2 - 0.12%
+
+Daily Mail:
+--------------------------------------------------
+  DigiCert Inc - 1873 - 55.96%
+  Google Trust Services - 793 - 23.69%
+  Amazon - 380 - 11.35%
+  GoDaddy.com, Inc. - 92 - 2.75%
+  Let's Encrypt - 82 - 2.45%
+  Sectigo Limited - 47 - 1.40%
+  Network Solutions L.L.C. - 29 - 0.87%
+  GlobalSign nv-sa - 13 - 0.39%
+  Trustwave Holdings, Inc. - 11 - 0.33%
+  GoGetSSL - 11 - 0.33%
+  Cloudflare, Inc. - 8 - 0.24%
+  SSL Corporation - 4 - 0.12%
+  Entrust, Inc. - 2 - 0.06%
+  Microsoft Corporation - 1 - 0.03%
+  Gandi - 1 - 0.03%
+
+Overall totals:
+--------------------------------------------------
+  DigiCert Inc - 22334 - 40.71%
+  Google Trust Services - 11277 - 20.56%
+  Amazon - 7560 - 13.78%
+  Sectigo Limited - 3146 - 5.73%
+  GlobalSign nv-sa - 3070 - 5.60%
+  Let's Encrypt - 2219 - 4.04%
+  GoDaddy.com, Inc. - 1480 - 2.70%
+  Network Solutions L.L.C. - 1377 - 2.51%
+  Cloudflare, Inc. - 991 - 1.81%
+  Entrust, Inc. - 553 - 1.01%
+  COMODO CA Limited - 374 - 0.68%
+  Trustwave Holdings, Inc. - 168 - 0.31%
+  No TLS - 96 - 0.17%
+  Microsoft Corporation - 83 - 0.15%
+  Gandi - 77 - 0.14%
+  SSL Corporation - 27 - 0.05%
+  GoGetSSL - 11 - 0.02%
+  Starfield Technologies, Inc. - 6 - 0.01%
+  Cybertrust Japan Co., Ltd. - 5 - 0.01%
+  Yandex LLC - 5 - 0.01%
+  home.pl S.A. - 3 - 0.01%
+
+Certificate expiration:
+--------------------------------------------------
+  GlobalSign nv-sa
+    397 days - 589
+    234 days - 576
+    825 days - 424
+    159 days - 329
+    172 days - 304
+    137 days - 154
+    366 days - 131
+    226 days - 115
+    452 days - 93
+    204 days - 93
+    123 days - 58
+    170 days - 32
+    102 days - 23
+    167 days - 22
+    803 days - 21
+    731 days - 20
+    410 days - 19
+    150 days - 18
+    141 days - 12
+    356 days - 9
+    769 days - 5
+    485 days - 5
+    429 days - 4
+    456 days - 4
+    121 days - 3
+    129 days - 2
+    130 days - 2
+    816 days - 1
+    782 days - 1
+    145 days - 1
+  Cloudflare, Inc.
+    365 days - 921
+    364 days - 70
+  Amazon
+    395 days - 2951
+    396 days - 2681
+    394 days - 955
+    363 days - 502
+    397 days - 170
+    364 days - 127
+    365 days - 100
+    357 days - 69
+    349 days - 5
+  DigiCert Inc
+    425 days - 2693
+    456 days - 1998
+    735 days - 1776
+    89 days - 1663
+    396 days - 1375
+    295 days - 1119
+    775 days - 955
+    395 days - 882
+    365 days - 864
+    44 days - 776
+    362 days - 548
+    821 days - 503
+    178 days - 492
+    320 days - 403
+    734 days - 393
+    370 days - 382
+    369 days - 376
+    180 days - 357
+    1100 days - 266
+    730 days - 257
+    330 days - 247
+    169 days - 236
+    756 days - 234
+    394 days - 227
+    400 days - 221
+    1130 days - 209
+    364 days - 188
+    176 days - 184
+    397 days - 177
+    366 days - 153
+    765 days - 146
+    737 days - 143
+    372 days - 139
+    785 days - 137
+    189 days - 108
+    749 days - 102
+    410 days - 94
+    816 days - 80
+    373 days - 77
+    374 days - 76
+    731 days - 74
+    405 days - 69
+    179 days - 63
+    797 days - 62
+    763 days - 56
+    387 days - 51
+    448 days - 46
+    384 days - 44
+    825 days - 39
+    790 days - 36
+    786 days - 35
+    759 days - 34
+    91 days - 31
+    769 days - 31
+    184 days - 26
+    773 days - 26
+    177 days - 25
+    798 days - 22
+    760 days - 20
+    772 days - 19
+    808 days - 17
+    391 days - 16
+    276 days - 16
+    175 days - 15
+    489 days - 14
+    385 days - 14
+    399 days - 14
+    174 days - 13
+    412 days - 11
+    430 days - 10
+    652 days - 10
+    452 days - 8
+    767 days - 8
+    173 days - 8
+    451 days - 8
+    678 days - 7
+    426 days - 6
+    135 days - 6
+    761 days - 5
+    458 days - 5
+    465 days - 5
+    428 days - 4
+    758 days - 4
+    182 days - 4
+    134 days - 4
+    607 days - 3
+    710 days - 3
+    738 days - 3
+    814 days - 3
+    822 days - 2
+    382 days - 2
+    161 days - 2
+    331 days - 2
+    356 days - 2
+    311 days - 2
+    747 days - 1
+    753 days - 1
+    770 days - 1
+    383 days - 1
+    707 days - 1
+    436 days - 1
+    801 days - 1
+    427 days - 1
+    238 days - 1
+    733 days - 1
+    812 days - 1
+    386 days - 1
+    682 days - 1
+  Entrust, Inc.
+    819 days - 358
+    386 days - 105
+    387 days - 51
+    787 days - 13
+    376 days - 9
+    374 days - 8
+    731 days - 7
+    365 days - 2
+  Sectigo Limited
+    730 days - 712
+    365 days - 698
+    824 days - 522
+    374 days - 207
+    820 days - 145
+    741 days - 143
+    704 days - 136
+    173 days - 128
+    90 days - 70
+    455 days - 57
+    486 days - 47
+    756 days - 39
+    396 days - 35
+    743 days - 30
+    745 days - 29
+    759 days - 15
+    377 days - 14
+    395 days - 13
+    277 days - 13
+    401 days - 13
+    755 days - 13
+    373 days - 10
+    733 days - 8
+    376 days - 7
+    744 days - 7
+    737 days - 6
+    378 days - 5
+    304 days - 4
+    559 days - 4
+    617 days - 4
+    195 days - 3
+    731 days - 2
+    366 days - 2
+    773 days - 1
+    375 days - 1
+    385 days - 1
+    761 days - 1
+    466 days - 1
+  Google Trust Services
+    83 days - 10499
+    90 days - 762
+    69 days - 16
+  COMODO CA Limited
+    1115 days - 217
+    190 days - 86
+    1136 days - 24
+    1185 days - 20
+    730 days - 13
+    1145 days - 4
+    1095 days - 3
+    1184 days - 3
+    678 days - 2
+    743 days - 1
+    1118 days - 1
+  Let's Encrypt
+    90 days - 2219
+  Microsoft Corporation
+    182 days - 76
+    731 days - 7
+  GoDaddy.com, Inc.
+    385 days - 353
+    791 days - 183
+    425 days - 129
+    731 days - 129
+    397 days - 121
+    746 days - 111
+    790 days - 91
+    787 days - 90
+    424 days - 72
+    733 days - 41
+    1135 days - 37
+    789 days - 31
+    770 days - 29
+    426 days - 12
+    730 days - 10
+    781 days - 7
+    375 days - 6
+    750 days - 6
+    407 days - 5
+    1096 days - 4
+    367 days - 3
+    366 days - 3
+    782 days - 2
+    728 days - 2
+    394 days - 2
+    779 days - 1
+  Trustwave Holdings, Inc.
+    774 days - 168
+  Network Solutions L.L.C.
+    769 days - 1377
+  Gandi
+    753 days - 66
+    759 days - 6
+    805 days - 3
+    468 days - 1
+    406 days - 1
+  Cybertrust Japan Co., Ltd.
+    394 days - 3
+    395 days - 2
+  Starfield Technologies, Inc.
+    365 days - 5
+    790 days - 1
+  Yandex LLC
+    182 days - 5
+  home.pl S.A.
+    365 days - 3
+  SSL Corporation
+    819 days - 18
+    396 days - 7
+    820 days - 2
+  GoGetSSL
+    824 days - 11

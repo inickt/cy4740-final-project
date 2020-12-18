@@ -125,7 +125,8 @@ Overall totals:
   TrustAsia Technologies, Inc. - 6 - 0.10%
   China Financial Certification Authority - 4 - 0.06%
   GoDaddy.com, Inc. - 3 - 0.05%
-\Certificate expiration:
+
+Certificate expiration:
 --------------------------------------------------
   Google Trust Services
     83 days - 220
