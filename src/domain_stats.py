@@ -25,6 +25,18 @@ def main(data):
     ):
         print(f"  {count} - {domain}")
 
+    print(f"\nCross usage totals:\n{'-' * 50}")
+    sites = defaultdict(list)
+    for domain in overall_domains:
+        for label, requests in data.items():
+            for request in requests:
+                if request["host"] == domain:
+                    sites[domain].append(label)
+                    break
+    for domain, sites in sorted(sites.items(), key=lambda kv: len(kv[1]), reverse=True):
+        if len(sites) > 1:
+            print(f"  {len(sites)} - {domain} - ({', '.join(sites)})")
+
 
 if __name__ == "__main__":
     filename = sys.argv[1]

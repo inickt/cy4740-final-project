@@ -733,3 +733,25 @@ Overall totals (1051):
   1 - a1.itc.cn
   1 - hotvrs.js.tv.itc.cn
   1 - pagead2.googlesyndication.com
+
+Cross usage totals:
+--------------------------------------------------
+  4 - sp0.baidu.com - (baidu, jd, qq, sohu)
+  3 - detectportal.firefox.com - (360.cn, jd, sohu)
+  2 - cm.g.doubleclick.net - (360.cn, jd)
+  2 - safebrowsing.googleapis.com - (baidu, qq)
+  2 - t12.baidu.com - (baidu, sohu)
+  2 - t11.baidu.com - (baidu, sohu)
+  2 - t10.baidu.com - (baidu, sohu)
+  2 - eclick.baidu.com - (baidu, sohu)
+  2 - pos.baidu.com - (baidu, sohu)
+  2 - cpro.baidustatic.com - (baidu, sohu)
+  2 - wn.pos.baidu.com - (baidu, sohu)
+  2 - dup.baidustatic.com - (baidu, sohu)
+  2 - photocdn.tv.sohu.com - (jd, sohu)
+  2 - www.sohu.com - (jd, sohu)
+  2 - statics.itc.cn - (jd, sohu)
+  2 - txt.go.sohu.com - (jd, sohu)
+  2 - js.sohu.com - (jd, sohu)
+  2 - pv.sohu.com - (jd, sohu)
+  2 - track.sohu.com - (jd, sohu)
